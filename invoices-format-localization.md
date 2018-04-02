@@ -8,6 +8,7 @@ There are two possible format for invoices today:
 ![](/assets/Screenshot from 2018-04-02 11-49-41.png)
 
 - **a format that fit more French / European requirements regarding how invoices should look like**. This comprises a detail for each line of the price excluding and including tax and tax rate applied + a total for the order excluding and including tax and the total tax amount per tax rate that the enterprise need to report to fiscal administration (so if in the order there are items with different tax rates there will be two "total tax" lines in the totals).
+This option also enable the hub to add some custom text on his hub's invoices (this is done in enterprise setting menu).
 
 ![](/assets/Screenshot from 2018-04-02 11-50-30.png)
 
