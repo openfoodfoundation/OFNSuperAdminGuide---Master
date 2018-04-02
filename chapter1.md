@@ -1,8 +1,6 @@
-# Configuration
+# Configuration - General Settings
 
 When you're logged in as super-admin, click on 'configuration' in the top blue menu.![](/assets/import.png)
-
-## General Settings 
 
 Check:
 
@@ -11,19 +9,23 @@ Check:
 * Default meta description e.g. OFN Australia 
 * Site URL e.g. openfoodnetwork.org.au
 
-
-
-Then scroll down to see a range of other settings. Emulate tick boxes as in image below or vary if obvious for your instance e.g. currency. 
-
-More information about some of the settings can be found at:
-
-* [Terms of Service](/terms-of-service.md)
-* Embedded shopfront
-* Number localisation settings
+Then scroll down to see a range of other settings. Emulate tick boxes as in image below or vary if obvious for your instance e.g. currency.
 
 ![](/assets/config-generalsettings2.png)
 
-Mail 
+## Terms of Service
+
+
+
+## Embedded shopfront settings
+
+* [the User Guide for enterprises using embedded shopfronts is here](https://www.gitbook.com/book/ofn-user-guide/ofn-super-admin-guide/edit#). Tick this box and add domains in the box to allow particular enterprises to use it. \[checking if there is anything particular about the separator\]
+
+## Number localisation settings
+
+
+
+Mail
 
 * Will be set up already
 
@@ -45,8 +47,7 @@ For your reference, the image below shows Australia's flat rate 10% tax in 'tax 
 
 \*\*Zones, Countries States\*\*
 
-* 
-\*\*Payment Methods\*\*
+* \*\*Payment Methods\*\*
 
 * Allow users to create their own payment methods. Don't need to do anything as super-admin.
 
@@ -86,11 +87,11 @@ You can attach icons to product categories
 
 \*\*Content\*\*
 
-This is where you can customise some pages. See further instrcutions here... \[[http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\](http://community.openfoodnetwork.org/t/configuration-content/307][1\)\]
+This is where you can customise some pages. See further instrcutions here... \[\[\[[http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\)\](http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29]%28http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29%29\)\]
 
 \*\*Accounts and Billing\*\*
 
-* This is where you can set-up billing. This is billing from the OFN to enterprises for the use of the software. \[[http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\](http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2\)\]
+* This is where you can set-up billing. This is billing from the OFN to enterprises for the use of the software. \[\[\[[http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\)\](http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29%29\)\]
 
 \#\#Producer and Product Properties
 
@@ -122,11 +123,11 @@ e.g.
 
   * Once you have created a users, you can make them the owner of this new enterprise.
 
-  * set type Any to make it a Hub \(read more about \[Enterprise Types\]\[6\]\) and \[how to manage them\]\([http://community.openfoodnetwork.org/t/managing-enterprises/166\](http://community.openfoodnetwork.org/t/managing-enterprises/166\)\)
+  * set type Any to make it a Hub \(read more about \[Enterprise Types\]\[6\]\) and \[how to manage them\]\([http://community.openfoodnetwork.org/t/managing-enterprises/166\](http://community.openfoodnetwork.org/t/managing-enterprises/166%29\)
 
 * Login as that new User
 
-  * now creating additional Producers and Hubs will automatically link these new Enterprises to your first Hub. \[more about auto-E2E-links\]\([http://community.openfoodnetwork.org/t/what-e2e-links-do-new-enterprises-have/33\](http://community.openfoodnetwork.org/t/what-e2e-links-do-new-enterprises-have/33\)\)
+  * now creating additional Producers and Hubs will automatically link these new Enterprises to your first Hub. \[more about auto-E2E-links\]\([http://community.openfoodnetwork.org/t/what-e2e-links-do-new-enterprises-have/33\](http://community.openfoodnetwork.org/t/what-e2e-links-do-new-enterprises-have/33%29\)
 
 \#Input Data
 
