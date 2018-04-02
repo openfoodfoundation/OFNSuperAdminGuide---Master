@@ -11,6 +11,8 @@ There are a couple of things you need to configure to get all the power out of t
 * Taxonomies  
 * [Taxes and Tax Zones  ](/taxes-and-tax-zones.md)
 * Formats for numbers  
+* [Image storage - S3?](https://github.com/openfoodfoundation/ofn-install/wiki/File-storage)
+* Inventory settings
 * Invoice format  
 * Stripe \(if you want to enable Stripe payments\)
 

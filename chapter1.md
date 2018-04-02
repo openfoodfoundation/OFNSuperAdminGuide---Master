@@ -15,7 +15,7 @@ Then scroll down to see a range of other settings. Emulate tick boxes as in imag
 
 ## Terms of Service
 
-
+If you tick this box each new User will have to read and accept your Terms of Service. It is advised that you revise / adapt a Terms of Service that is applicable to your instance before turning this on. See discussion and templates [here](https://community.openfoodnetwork.org/t/instance-based-terms-of-service/734). 
 
 ## Embedded shopfront settings
 
@@ -23,13 +23,19 @@ Then scroll down to see a range of other settings. Emulate tick boxes as in imag
 
 ## Number localisation settings
 
+Myriam to do
 
 
-Mail
 
-* Will be set up already
+## Mail
 
-\*\*Image Setting\*\*
+Should be set up already. If not, or if you're having problems you likely need help from the sys admin who set up your instance. They should follow instructions in [ofn-install wiki ](https://github.com/openfoodfoundation/ofn-install/wiki/Sending-emails-from-OFN)
+
+## Images
+
+Make a decision whether to use Amazon S3 or some other storage for your images. Not using S3 can be problematic as a big user might create disk shortage errors and hence server failures. Then you need to buy more HDD on the hosting server which would be more expensive than s3. I would think it would be better \(and best practice\) to use an external server for images and s3 is cheap and already configured. Follow instructions here - [ https://github.com/openfoodfoundation/ofn-install/wiki/File-storage](https://github.com/openfoodfoundation/ofn-install/wiki/File-storage)
+
+
 
 * Will be set up already
 
@@ -87,11 +93,11 @@ You can attach icons to product categories
 
 \*\*Content\*\*
 
-This is where you can customise some pages. See further instrcutions here... \[\[\[[http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\)\](http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29]%28http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29%29\)\]
+This is where you can customise some pages. See further instrcutions here... \[\[\[\[[http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\)\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\]\(http://community.openfoodnetwork.org/t/configuration-content/307\]\[1\)\)\)\](http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29]%28http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29%29]%28http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29]%28http://community.openfoodnetwork.org/t/configuration-content/307][1]%28http://community.openfoodnetwork.org/t/configuration-content/307][1%29%29%29\)\]
 
 \*\*Accounts and Billing\*\*
 
-* This is where you can set-up billing. This is billing from the OFN to enterprises for the use of the software. \[\[\[[http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\)\](http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29%29\)\]
+* This is where you can set-up billing. This is billing from the OFN to enterprises for the use of the software. \[\[\[\[[http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\)\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\]\(http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348\]\[2\)\)\)\](http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29%29]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2]%28http://community.openfoodnetwork.org/t/enterprise-user-accounts-configuration-accounts-billing/348][2%29%29%29\)\]
 
 \#\#Producer and Product Properties
 
