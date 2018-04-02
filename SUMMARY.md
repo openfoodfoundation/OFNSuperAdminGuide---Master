@@ -6,4 +6,5 @@
 * [Set up your user guide](set-up-your-user-guide.md)
 * [Taxes and Tax Zones](taxes-and-tax-zones.md)
 * [Format and numbers](format-and-numbers.md)
+* [Invoices format localization](invoices-format-localization.md)
 
