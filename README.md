@@ -9,7 +9,7 @@ There are a couple of things you need to configure to get all the power out of t
 * [Configuration Basics](/chapter1.md)
 * Countries and states  
 * Taxonomies  
-* Taxes and Tax Zones  
+* [Taxes and Tax Zones  ](/taxes-and-tax-zones.md)
 * Formats for numbers  
 * Invoice format  
 * Stripe \(if you want to enable Stripe payments\)
