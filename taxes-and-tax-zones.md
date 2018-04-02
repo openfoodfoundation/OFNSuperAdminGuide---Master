@@ -6,9 +6,11 @@ Create new zone Germany and make it default tax zone ![](/assets/germantaxzone.p
 
 ![](/assets/germntaxcategory.png)
 
-Create two new tax rates for general and reduced German VAT rates as per http://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/The-tax-system/value-added-tax-vat.html
+Create two new tax rates for general and reduced German VAT rates as per [http://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/The-tax-system/value-added-tax-vat.html](http://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/The-tax-system/value-added-tax-vat.html)
 
 Select 'include in price' - annoying for people not to see tax included prices when they are shopping
 
-![](/assets/germanytaxrates.png)
+![](/assets/germanytaxrates.png)Tax Settings - I need to check with Germany
+
+
 
