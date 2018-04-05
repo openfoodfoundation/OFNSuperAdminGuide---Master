@@ -1,6 +1,7 @@
 # Summary
 
 * [Overview](README.md)
+* Governance
 * [Deployment and system administration](deployment-and-system-administration.md)
 * [OFN platform configuration](chapter1.md)
   * [Taxes and Tax Zones](taxes-and-tax-zones.md)
