@@ -6,6 +6,7 @@ All that is documented on Github, in the OFN-install repository. Checkout the wi
 
 # 2- How do I get support?
 
+Maybe you are not technical and don't have any tech people in your team. Or maybe you are tech but need support to do maintenance and for emergency fixes on your local server. Here is how we have organized sys admin support in the OFN community!
 
 ## System administration global team
 
