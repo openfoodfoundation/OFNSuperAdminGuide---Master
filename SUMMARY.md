@@ -8,6 +8,7 @@
   * [Mail Methods](mail-methods.md)
   * [Image Settings](image-settings.md)
   * [Taxes and Tax Zones](taxes-and-tax-zones.md)
+  * [Countries and States](countries-and-states.md)
   * [Payment Methods](payment-methods.md)
   * [Taxonomies](taxonomies.md)
   * [Shipping Methods](shipping-methods.md)
