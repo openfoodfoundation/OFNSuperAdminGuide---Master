@@ -19,9 +19,13 @@
   * [Enterprise Fees](enterprise-fees.md)
   * [Content](content.md)
   * [Business Model](business-model-configuration.md)
+  * [Caching](/caching.md)
   * [Invoice Settings](invoices-settings.md)
   * [Accounts & Billing](accounts-and-billing.md)
   * [Stripe Connect](stripe-connect.md)
 * Translate in your own language
 * [Set up your user guide](set-up-your-user-guide.md)
+* [Producer and Product Properties](producer-and-product-properties.md)
+
+
 
