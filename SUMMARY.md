@@ -26,6 +26,5 @@
 * Translate in your own language
 * [Set up your user guide](set-up-your-user-guide.md)
 * [Producer and Product Properties](producer-and-product-properties.md)
-
-
+* [Managing Users](managing-users.md)
 
