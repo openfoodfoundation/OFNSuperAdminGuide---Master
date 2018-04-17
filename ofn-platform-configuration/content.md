@@ -1,35 +1,62 @@
 # Content
 
+## Content
+
 This is where you can customize the elements your instance's appearance and relevant links.
 
-## Header
+### Header
 
 **Logo\(640 x 130\): **The screenshot below shows where this image will be. It applies on the homepage and also on other pages, including the shops page, producer page, producer sign up page, etc
 
 ![](https://community.openfoodnetwork.org/uploads/default/original/1X/9bb0beeb821747ca2649e0ff84666049c29f4cc1.png)
 
-**Mobile Logo \(72 x 26\): **This image is applied in the same way as the one above, but in the mobile view. It needs to be smaller and with different proportions.  
+**Mobile Logo **
+
+**\(**
+
+**72 x 26**
+
+**\)**
+
+**: **
+
+This image is applied in the same way as the one above, but in the mobile view. It needs to be smaller and with different proportions.
+
 ![](https://community.openfoodnetwork.org/uploads/default/original/1X/9f2418ef88f063878b54b000b18dedecb00fd4f9.png)
 
 **Mobile Logo \(SVG\): **File type = .svg. Will display in preference to above image in certain situations \(depending on mobile/window size\).
 
-# Home Page
+## Home Page
 
-**Hero Image: **This image will sit in the background of the homepage. It’s the first image that visitors to the site will see. In the screenshot below, it is the image of the paddock, trees and sunshine.  
+**Hero Image: **
+
+This image will sit in the background of the homepage. It’s the first image that visitors to the site will see. In the screenshot below, it is the image of the paddock, trees and sunshine.
+
 ![](https://community.openfoodnetwork.org/uploads/default/original/1X/e24ada031aa1844e5002492af4c6434537ca46df.png)
 
-**Show Statistics: **If you check this box, the homepage will show a live feed of statistics relating to your instance. If unselected, these statistics will not show. See image below for a comparison.  
+**Show Statistics: **If you check this box, the homepage will show a live feed of statistics relating to your instance. If unselected, these statistics will not show. See image below for a comparison.
 
+![](https://community.openfoodnetwork.org/uploads/default/optimized/1X/f705f288aa0dccfce267feec7fa476838c9075e8_1_690x486.png)
 
-[![](https://community.openfoodnetwork.org/uploads/default/optimized/1X/f705f288aa0dccfce267feec7fa476838c9075e8_1_690x486.png)](https://community.openfoodnetwork.org/uploads/default/original/1X/f705f288aa0dccfce267feec7fa476838c9075e8.png)
+The following fields relates to these pages:
 
-The following fields relates to these pages:  
-![](https://community.openfoodnetwork.org/uploads/default/original/1X/fff5ad8c77c28b170017e290b1e3a838eefa8ed8.png)  
-_Leaving any of the next 9 fields blank will not remove the section from the pages. The heading will still be there, just without any content below._  
-**PRODUCER SIGN UP PAGE**  
-**Producer signup pricing table html: **Insert HTML code for the pricing table for producers.  
-**Producer signup case studies html: **Insert HTML code for producer case studies.  
-**Producer signup detail html: **Insert HTML code for more detail on producer signup.
+![](https://community.openfoodnetwork.org/uploads/default/original/1X/fff5ad8c77c28b170017e290b1e3a838eefa8ed8.png)
+
+_Leaving any of the next 9 fields blank will not remove the section from the pages. The heading will still be there, just without any content below._
+
+**PRODUCER SIGN UP PAGE**
+
+**Producer signup pricing table html: **
+
+Insert HTML code for the pricing table for producers.
+
+**Producer signup case studies html: **
+
+Insert HTML code for producer case studies.
+
+**Producer signup detail html: **
+
+Insert HTML code for more detail on producer signup.
 
 **HUB SIGN UP PAGE**  
 **Hub signup pricing table html: **Insert HTML code for the pricing table for hubs.  
@@ -41,8 +68,18 @@ _Leaving any of the next 9 fields blank will not remove the section from the pag
 **Group signup case studies html: **Insert HTML code for group case studies.  
 **Group signup detail html: **Insert HTML code for more detail on group signup.
 
-**FOOTER -**  
-The following fields relate to the footer which sits at the bottom of all pages \(pictured below\).  
+**FOOTER -**
+
+The following fields relate to the footer which sits at the bottom of all pages 
+
+\(
+
+pictured below
+
+\)
+
+.
+
 ![](https://community.openfoodnetwork.org/uploads/default/original/1X/0b021efe62019e4c1cd6330019b4d185c2d0cc08.png)
 
 **Logo: **The logo image in the bottom left of the screenshot above.

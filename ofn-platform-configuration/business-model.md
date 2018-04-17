@@ -2,11 +2,9 @@
 
 Here you can set up the fee structure that is charged to enterprise users each month, for their use of the Open Food Network.
 
-This fee structure will visible to customers. The actual billing is not automatic, and requires the instance manager to trigger invoices through [Accounts and Billing](/accounts-and-billing.md).
+This fee structure will visible to customers. The actual billing is not automatic, and requires the instance manager to trigger invoices through [Accounts and Billing](accounts-and-billing.md).
 
-![](/assets/Businessmodel.png)
-
-
+![](../.gitbook/assets/businessmodel.png)
 
 The above setup shows a fee structure where users are charged 2% of sales, capped at $50. This excludes GST \(tax\), which is applied at a rate of 10%.
 
@@ -23,11 +21,9 @@ Your Business Model fee structure will be communicated to your users automatical
 
 When they first create their profile they'll see this page.
 
-![](/assets/Packages.png)
+![](../.gitbook/assets/packages.png)
 
 Once they have setup their profile they can change their package at any time, and will see the billing information on the enterprise page.
 
-![](/assets/Changepackage.png)
-
-
+![](../.gitbook/assets/changepackage.png)
 

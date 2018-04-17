@@ -10,5 +10,7 @@ This page shows a list of countries. You don't need to play with any settings he
 
 Select your country\(s\). Setup states and their abbreviations for your country\(s\).
 
-The Australian state setup is shown below.![](/assets/Ausstatest.png)
+The Australian state setup is shown below.
+
+![](../.gitbook/assets/ausstatest.png)
 

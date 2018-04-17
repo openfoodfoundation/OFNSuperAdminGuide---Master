@@ -53,8 +53,6 @@ This is done in the Users tab \(only visible to SuperAdmin\)
 
 ![](https://community.openfoodnetwork.org/uploads/default/106/ffc23ec6a21b3446.png)
 
-
-
 ![](https://community.openfoodnetwork.org/uploads/default/108/5cd89ee8388552e7.png)
 
 **Adding a basic users**
@@ -68,6 +66,4 @@ You must provide an email address, and create a password. Raise the enterprise l
 ### Assigning a user to own/manage and enterprise
 
 Go to Enterprises in the horizontal blue menu. Select the enterprise you wish to assign a manager/owner to. Go to the Users tab and add the user as either the owner or manager.
-
-
 

@@ -1,15 +1,15 @@
-# All you need to configure when you set up an OFN instance
+# Overview
 
-Congratulation! You have deployed the OFN code base on a server and are ready to start playing with it :-\)
+Congratulations! You have deployed the OFN code base on a server and are ready to start playing with it :-\)
 
 This User Guide is for people who are setting up, hosting and managing their own instance of the Open Food Network. Once installed and running, we refer to you as Super-Admin.
 
 There are a couple of things you need to configure to get all the power out of this piece of code:
 
-* [Configuration Basics](/chapter1.md)
+* [Configuration Basics](ofn-platform-configuration/)
 * Countries and states  
 * Taxonomies  
-* [Taxes and Tax Zones  ](/taxes-and-tax-zones.md)
+* [Taxes and Tax Zones  ](ofn-platform-configuration/taxes-and-tax-zones.md)
 * Formats for numbers  
 * [Image storage - S3?](https://github.com/openfoodfoundation/ofn-install/wiki/File-storage)
 * Inventory settings

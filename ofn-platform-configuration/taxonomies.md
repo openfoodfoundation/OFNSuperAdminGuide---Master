@@ -8,9 +8,11 @@ Any taxonomies, and entries within them, that you create will become available a
 
 You can attach icons to product categories. Just not here \(Myriam do you know where this would be done?\)
 
-Below are the settings from the Australian instance as an example to work from.![](/assets/Taxonomies)
+Below are the settings from the Australian instance as an example to work from.
+
+![](../.gitbook/assets/taxonomies.bin)
 
 Once setup, your view of the taxonomies page will be something like below.
 
-![](/assets/ProductsTaxonomies.png)
+![](../.gitbook/assets/productstaxonomies.png)
 

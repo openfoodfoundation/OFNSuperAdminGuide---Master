@@ -1,10 +1,10 @@
-# Accounts and Billing
+# Accounts & Billing
 
 Accounts and Billing is a tool that instances can use to bill their users.
 
-This tab is where you come to generate invoices for your users. Before you do this, you should set up your fee structure in [Business Model Configuration](/business-model-configuration.md).
+This tab is where you come to generate invoices for your users. Before you do this, you should set up your fee structure in [Business Model Configuration](business-model.md).
 
-![](/assets/AccountsBilling.png)
+![](../.gitbook/assets/accountsbilling.png)
 
 **Accounts Administration Distributor**: This is an enterprise created for the purpose of billing your enterprise users. This enterprise, and it’s owner should be exclusively used for operating the enterprise user billing activities. So firstly create a user and an enterprise \(we called ours Accounts and Billing\). Set this enterprise as a producer selling own, and make it invisible. Then select this enterprise from the list. Once you do this two new fields will open below.
 
@@ -21,7 +21,7 @@ Note: When you manually run tasks, it may take some time to process. You can ref
 **Viewing User Invoices \(As SuperAdmin\)**  
 To view the invoices login as your Accounts and Billing user, and go to Admin/Orders. Make sure you have selected ‘show only unfulfilled orders’ in the search bar.
 
-![](/assets/viewinvoices.png)
+![](../.gitbook/assets/viewinvoices.png)
 
 **Using Reports to gets final invoice amounts**  
 Because invoices have the status ‘in cart’ or are ‘unfulfilled’, until they are finalised, they won’t show in reports until finalised.
@@ -34,6 +34,4 @@ This report is formatted for import into Xero accounting package.
 Going to [https://openfoodnetwork.org.au/admin/account](https://openfoodnetwork.org.au/admin/account) will take the user to their personal account list. Here they’ll see the balance of their current month, and the previous month’s finalised invoice total, for each of their enterprises.
 
 Note: I believe only enterprise owner will see the account page- if the user has no account, and they try to access this page they get the error page.
-
-
 

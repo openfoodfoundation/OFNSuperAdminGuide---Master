@@ -4,7 +4,7 @@
 
 Each instance can setup their own list of properties. The properties that are available on the Australian instance are shown below as an example
 
-![](/assets/Ausproperties.png)
+![](.gitbook/assets/ausproperties.png)
 
 ## Setting properties for your instance
 
