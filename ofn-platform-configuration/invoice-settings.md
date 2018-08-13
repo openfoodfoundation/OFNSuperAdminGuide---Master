@@ -34,5 +34,5 @@ Some hubs are using OFN to manage onsite sales and needed to be able to print a 
 
 By default, **when the checkbox is left unselected** thermally printed receipts are not printable by enterprises.
 
-If your instance** selects the checkbox**, your will enable printing of thermal receipts on your instance. The layout of a thermally printed receipt shows each line item and display clearly the amount excluding and including VAT. See the user guide for further details about thermally printed receipts.
+If your instance **selects the checkbox**, your will enable printing of thermal receipts on your instance. The layout of a thermally printed receipt shows each line item and display clearly the amount excluding and including VAT. See the user guide for further details about thermally printed receipts.
 

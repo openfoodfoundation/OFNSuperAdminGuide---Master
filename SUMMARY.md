@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* Governance
+* [Governance](governance.md)
 * [Deployment and system administration](deployment-and-system-administration.md)
 * [OFN platform configuration](ofn-platform-configuration/README.md)
   * [General Settings](ofn-platform-configuration/general-settings.md)
@@ -23,7 +23,7 @@
   * [Invoice Settings](ofn-platform-configuration/invoice-settings.md)
   * [Accounts & Billing](ofn-platform-configuration/accounts-and-billing.md)
   * [Stripe Connect](ofn-platform-configuration/stripe-connect.md)
-* Translate in your own language
+* [Translate in your own language](translate-in-your-own-language.md)
 * [Set up your user guide](set-up-your-user-guide.md)
 * [Producer and Product Properties](producer-and-product-properties.md)
 * [Managing Users](managing-users.md)

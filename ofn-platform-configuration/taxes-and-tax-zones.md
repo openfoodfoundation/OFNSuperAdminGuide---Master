@@ -19,15 +19,15 @@ What do Zones do? When the customer gets to the final stage of checkout and ente
 
 **Setting up a zone**
 
-**Name: **Name the zone E.g. California, or Australia
+**Name:** Name the zone E.g. California, or Australia
 
-**Description: **Give a description E.g. California or Australia
+**Description:** Give a description E.g. California or Australia
 
-**Default Tax Zone: **By selecting this option, it means that any tax rates applied to this zone will display by default in the shopfront. This will become clearer when you read about Tax Rates and Tax Categories below. For example, if you have a Country wide tax and a variable State tax system, you may want the Country tax to show by default \(as it’s charged to everyone\) but the State tax will only be applied once the customer provides their address and the relevant state tax is applied. If you were to have the California tax show as default, it would confuse customers from others states when that tax was replaced with their state tax, so choose the default tax accordingly.
+**Default Tax Zone:** By selecting this option, it means that any tax rates applied to this zone will display by default in the shopfront. This will become clearer when you read about Tax Rates and Tax Categories below. For example, if you have a Country wide tax and a variable State tax system, you may want the Country tax to show by default \(as it’s charged to everyone\) but the State tax will only be applied once the customer provides their address and the relevant state tax is applied. If you were to have the California tax show as default, it would confuse customers from others states when that tax was replaced with their state tax, so choose the default tax accordingly.
 
-**Type: **Country based or State based. Zones are defined at two levels; country and state. You cannot setup zones for postcodes/zip codes, states are the finest zone available. Select if you’re setting up a country zone, or a state zone.
+**Type:** Country based or State based. Zones are defined at two levels; country and state. You cannot setup zones for postcodes/zip codes, states are the finest zone available. Select if you’re setting up a country zone, or a state zone.
 
-**Country/States: **Now select the country\(ies\)/state\(s\) that fall into this zone. For Australia, we just have a single country in the Australia zone. For Europe, you may have multiple countries in the one zone E.g. EU.
+**Country/States:** Now select the country\(ies\)/state\(s\) that fall into this zone. For Australia, we just have a single country in the Australia zone. For Europe, you may have multiple countries in the one zone E.g. EU.
 
 **How Zones interact with Shipping Methods**
 
@@ -52,17 +52,17 @@ Tax rates are where you setup the % tax rates that are relevant in your instance
 
 ![](https://community.openfoodnetwork.org/uploads/default/original/1X/18a440d20d003be1fb408105d6e2ce1f856c6492.png)
 
-**Name: **What is the name of the tax?
+**Name:** What is the name of the tax?
 
-**Rate: **What % is the tax? This is defined as a decimal e.g. 10% = 0.10
+**Rate:** What % is the tax? This is defined as a decimal e.g. 10% = 0.10
 
-**Included in Price: **If product prices should display to the enterprise manager and to the customer as the ‘tax inclusive price’, click this tick box. If customers and enterprise managers prefer to see the ‘tax exclusive price’ and then see the tax added on at checkout, deselect this option. Note; tax inclusivity/exclusivity is defined at the instance level. Users can’t choose individually whether their shops display tax inclusive or exclusive prices.
+**Included in Price:** If product prices should display to the enterprise manager and to the customer as the ‘tax inclusive price’, click this tick box. If customers and enterprise managers prefer to see the ‘tax exclusive price’ and then see the tax added on at checkout, deselect this option. Note; tax inclusivity/exclusivity is defined at the instance level. Users can’t choose individually whether their shops display tax inclusive or exclusive prices.
 
-**Zone: **Each tax rate has a defined zone \(see Zone section above\). This dictates which customers the tax applies to. If it’s a national tax, it will apply to all customers in the country based zone. If it’s a state tax, it will only apply to customers located in that state. Note, you’ll need to have your zones setup before you can setup your tax rates.
+**Zone:** Each tax rate has a defined zone \(see Zone section above\). This dictates which customers the tax applies to. If it’s a national tax, it will apply to all customers in the country based zone. If it’s a state tax, it will only apply to customers located in that state. Note, you’ll need to have your zones setup before you can setup your tax rates.
 
-**Tax Category: **Each tax rate sits in a defined Tax Category \(see Tax Category section below\). The Tax Category is the label seen by the enterprise user when they apply tax rates to products. If a Tax Rate isn’t in a category it can’t be applied.
+**Tax Category:** Each tax rate sits in a defined Tax Category \(see Tax Category section below\). The Tax Category is the label seen by the enterprise user when they apply tax rates to products. If a Tax Rate isn’t in a category it can’t be applied.
 
-**Show rate in label: **???
+**Show rate in label:** ???
 
 **Calculator**: Leave this as Default Tax
 

@@ -16,27 +16,27 @@
 
 Then scroll down to see further settings. Emulate tick boxes as in image below or vary if obvious for your instance e.g. currency.
 
-**Security Settings: **Copy the settings pictured below
+**Security Settings:** Copy the settings pictured below
 
 ![](../.gitbook/assets/securitysettings.png)
 
-**Currency Settings: **
+**Currency Settings:** 
 
 **Display currency:** Select if you want for example 'AUD' \(Australian Dollars\) to show in the shop. Deselect if you just want $ to show in the shop.
 
-**Hide cents: **Select if you want to hide the cents component in shops
+**Hide cents:** Select if you want to hide the cents component in shops
 
 **Choose currency:** Select the currency of your instance
 
 **Put currency symbol before or after dollar amount:** Select whether you want $5 or 5$
 
-**Enterprise Terms of Service: **This setting allows an instance to require all new users signing up via the /register wizard to ‘accept terms and conditions’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated.
+**Enterprise Terms of Service:** This setting allows an instance to require all new users signing up via the /register wizard to ‘accept terms and conditions’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated.
 
 ![](../.gitbook/assets/acceptterms.png)
 
 The Terms of Service link can be set for the instance by going to [Configuration - Content](content.md), ‘Terms of Service’ field. See discussion and templates [here](https://community.openfoodnetwork.org/t/instance-based-terms-of-service/734). If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service. Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
 
-**Embedded Shopfront Settings: **Each instance has the choice of enabling or disabling embedded shopfronts. You can turn the feature on and off.
+**Embedded Shopfront Settings:** Each instance has the choice of enabling or disabling embedded shopfronts. You can turn the feature on and off.
 
 If your instance is enabling embedded shopfronts, you’ll need to give each user who wants to embed their shop permission to embed it in their external website. To do this you need to enter their external website URL in the ‘external domain whitelist’. Write the URL without www. or http, as shown below. Separate each by a space. Only once the external URL is on this list will the user be able to embed their shop on that website.
 
