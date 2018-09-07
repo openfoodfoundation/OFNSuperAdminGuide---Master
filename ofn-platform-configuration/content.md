@@ -58,6 +58,14 @@ Insert HTML code for more detail on producer signup.
 **Group signup case studies html:** Insert HTML code for group case studies.  
 **Group signup detail html:** Insert HTML code for more detail on group signup.
 
+### Main menu links
+
+Here you can select which menu items you want to include in your header menu.
+
+Selecting an items turns it visible or invisible.
+
+### Footer and External Links
+
 **FOOTER -** The following fields relate to the footer which sits at the bottom of all pages \(pictured below\).
 
 ![](https://community.openfoodnetwork.org/uploads/default/original/1X/0b021efe62019e4c1cd6330019b4d185c2d0cc08.png)
