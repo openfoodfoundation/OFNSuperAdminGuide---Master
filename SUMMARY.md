@@ -22,6 +22,7 @@
   * [Caching](ofn-platform-configuration/caching.md)
   * [Invoice Settings](ofn-platform-configuration/invoice-settings.md)
   * [Accounts & Billing](ofn-platform-configuration/accounts-and-billing.md)
+  * [Matomo](ofn-platform-configuration/matomo.md)
   * [Stripe Connect](ofn-platform-configuration/stripe-connect.md)
 * [Translate in your own language](translate-in-your-own-language.md)
 * [Set up your user guide](set-up-your-user-guide.md)
