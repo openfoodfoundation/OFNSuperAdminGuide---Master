@@ -4,7 +4,7 @@ description: How to plug Matomo to your instance in order to measure users behav
 
 # Matomo settings
 
-[Matomo ](https://matomo.org/)is an analytics tool. OFN has a global Matomo account. Just ask on Slack for someone to give you access to this global account.
+[Matomo ](https://matomo.org/)is the analytics tool that we have chosen to implement within OFN as it is fully [GDPR](https://eugdpr.org/) compliant. OFN has a global Matomo account. Just ask on Slack for someone to give you access to this global account.
 
 As a superadmin, go to "Configuration", then "Matomo settings":  
 
