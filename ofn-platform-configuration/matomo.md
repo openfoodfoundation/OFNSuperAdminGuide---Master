@@ -9,7 +9,7 @@ description: How to plug Matomo to your instance in order to measure users behav
 As a superadmin, go to "Configuration", then "Matomo settings":  
 
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 **Matomo URL:** Fill in the following URL [https://openfoodnetwork.innocraft.cloud/](https://openfoodnetwork.innocraft.cloud/)   
 
@@ -23,11 +23,11 @@ As a superadmin, go to "Configuration", then "Matomo settings":
 
 If you don't see your instance in the list, you will have to create a new measurable \(red button\). You will see this message:
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 Click on "Website". You will then have a form that starts like this:
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 **If you want to set up quickly, here are the info you need to fill:**
 
@@ -51,7 +51,13 @@ Click on "Website". You will then have a form that starts like this:
 
 **Time zone**: indicate the time zone of your instance
 
-Save. Now you have an ID number! Go back to the configuration page to save the info and you are now ready!
+Save. Now you have an ID number! Go back to the configuration page to save the info and you are now ready!  
+  
+Don't forget to check as well "**Display Matomo section on cookies policy page**" in Configuration &gt; General Settings \(your instance / super admin role\).
+
+![](../.gitbook/assets/image.png)
+
+
 
 
 
