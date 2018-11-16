@@ -28,6 +28,10 @@ Then scroll down to see further settings. Emulate tick boxes as in image below o
 
 **Choose currency:** Select the currency of your instance
 
+{% hint style="info" %}
+Please note, if you are using Euro, you must select the 'Number localisation setting' below to avoid price errors. See bug [https://github.com/openfoodfoundation/openfoodnetwork/issues/3057](https://github.com/openfoodfoundation/openfoodnetwork/issues/3057)
+{% endhint %}
+
 **Put currency symbol before or after dollar amount:** Select whether you want $5 or 5$
 
 **Enterprise Terms of Service:** This setting allows an instance to require all new users signing up via the /register wizard to ‘accept terms and conditions’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated.
