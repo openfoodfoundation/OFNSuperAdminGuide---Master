@@ -4,7 +4,7 @@
 
 Your instance can choose whether or not to offer this payment gateway.
 
-The Stripe Connect tab contains a link to this Stripe setup guide, which runs through setting up Stripe on an instance - [https://github.com/openfoodfoundation/openfoodnetwork/wiki/Setting-up-Stripe-on-an-OFN-instance](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Setting-up-Stripe-on-an-OFN-instance)
+The Stripe Connect tab contains a link to [this Stripe setup guide on the Github wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki/Setting-up-Stripe-on-an-OFN-instance). Just follow the guide to set it up for your instance !
 
 ![](../.gitbook/assets/stripeconnect.png)
 

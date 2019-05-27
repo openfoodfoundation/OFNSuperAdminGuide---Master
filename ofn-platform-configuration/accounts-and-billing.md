@@ -3,7 +3,7 @@
 Accounts and Billing is a tool that instances can use to bill their users.
 
 {% hint style="info" %}
-This super-admin feature was only used by Australian instance and is going to disappear. We are now using zappier to create integrations with invoicing systems.
+This super-admin feature was only used by Australian instance and is going to disappear. We are now using zappier to create integrations with invoicing systems. [See dedicated section](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/integrations-and-business-intelligence).
 {% endhint %}
 
 This tab is where you come to generate invoices for your users. Before you do this, you should set up your fee structure in [Business Model Configuration](business-model.md).

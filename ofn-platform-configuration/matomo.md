@@ -4,9 +4,9 @@ description: How to plug Matomo to your instance in order to measure users behav
 
 # Matomo settings
 
-[Matomo ](https://matomo.org/)is the analytics tool that we have chosen to implement within OFN as it is fully [GDPR](https://eugdpr.org/) compliant. OFN has a global Matomo account. Just ask on Slack for someone to give you access to this global account.
+[Matomo ](https://matomo.org/)is the analytics tool that we have chosen to implement within OFN as it is fully [GDPR](https://eugdpr.org/) compliant. OFN has a global Matomo account. Just ask on Slack on instance managers channel for someone to give you access to this global account.
 
-As a superadmin, go to "Configuration", then "Matomo settings":  
+As a superadmin, here is what you see in the configuration "Matomo Settings" tab:  
 
 
 ![](../.gitbook/assets/image%20%281%29.png)
@@ -53,7 +53,7 @@ Click on "Website". You will then have a form that starts like this:
 
 Save. Now you have an ID number! Go back to the configuration page to save the info and you are now ready!  
   
-Don't forget to check as well "**Display Matomo section on cookies policy page**" in Configuration &gt; General Settings \(your instance / super admin role\).
+Don't forget to check as well "**Display Matomo section on cookies policy page**" in [Configuration &gt; General Settings](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/ofn-platform-configuration/general-settings).
 
 ![](../.gitbook/assets/image.png)
 
