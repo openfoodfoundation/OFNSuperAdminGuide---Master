@@ -26,7 +26,7 @@ If your OFN instance only offers one language for visitors, then you don't have 
 
 Multi-lingual on your instance has to be activated by a developer \(explained in the OFN wiki [here](https://github.com/openfoodfoundation/ofn-install/wiki/Configuration#multilingual)\).
 
-For no only the interface navigation is multilingual. Data are not, so some information can only be in one language for now :
+For now only the interface navigation is multilingual. Data are not, so some information can only be in one language for now :
 
 * Product categories
 * Tax categories

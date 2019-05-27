@@ -65,15 +65,13 @@ Select your repository.
 
 ![](.gitbook/assets/screenshot-from-2018-03-04-11-19-54.png)
 
-The integration with your Gitbook organization is done, well done!
+**The integration with your Gitbook organization is done, well done!**
 
 Now from Gitbook organization page click on "create a book from github"
 
 ![](.gitbook/assets/screenshot-from-2018-03-04-11-21-47.png)
 
-Give it a title and description, and choose the repository that you create for that purpose :-
-
-\)
+Give it a title and description, and choose the repository that you create for that purpose :-\)
 
 ![](.gitbook/assets/screenshot-from-2018-03-04-11-25-10.png)
 
