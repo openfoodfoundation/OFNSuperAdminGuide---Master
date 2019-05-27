@@ -54,29 +54,34 @@ To make it easier we have implemented the following internationalization logic:
 
 ### **Enterprise Terms of Service**
 
-This setting allows an instance to require all new users signing up via the /register wizard to ‘accept terms and conditions’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated.
+The Terms of Service link can be set here for the instance. See discussion and templates [here](https://community.openfoodnetwork.org/t/instance-based-terms-of-service/734).
 
-The Terms of Service link can be set for the instance by going to [Configuration - Content](content.md), ‘Terms of Service’ field. See discussion and templates [here](https://community.openfoodnetwork.org/t/instance-based-terms-of-service/734). If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service. Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
+The next setting allows an instance to require all new users signing up via the /register wizard to ‘accept terms and conditions’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated.  If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service. Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
 
 ![](../.gitbook/assets/acceptterms.png)
 
-### **Cookies**
+### **Cookies and analytics tracking**
 
-jjj
+Depending of the location of your instance, the GDPR might require from you that you request a consent from visitors before deposing cookies on their computer. We use the very minimum cookies we really need to make the platform work, so we have collectively written a cookies policy that explains all that, **and you can choose to display the cookie consent banner to request consent from your visitors**. The cookies policy is accessible from the footer at any time.
 
-### **Analytics tracking tools**
+The only cookie that is not compulsory for the site to work is the navigation tracking cookie that we use analytics,  it gives us data to understand how the visitors use the platform, so that we can improve their experience. 
 
-jjj
+Currently there are two analytics tool you can use:
+
+* **Matomo.** This is the tool recognized as GDPR friendly. It respect the privacy of users and has been approved by CNIL in France for instance \(which protect data privacy\). If you are in a country within GDPR zone, we highly recommend you to use Matomo for your analytics tracking tool. **If you select the corresponding checkbox, the cookie policy will display the section concerning the cookies used by Matomo, and will enable users to disable these cookies if they want.**
+* **Google Analytics.** This tool is much less data friendly, we discourage you to use it, but it's available within the Spree original software we have built on, so you can still use it. **In that case, select the corresponding checkbox to display in the cookies policy the section regarding the cookies used by Google Analytics. If you make that choice, your users won't be able to disable these cookies**.
 
 ### **Privacy policy**
 
-jjj
+If you are within the GDPR zone, you are also required to write and share with your visitors your privacy policy. It includes the cookies policy \(so you can refer to the cookies policy link within your privacy policy document\), but it goes much further. Various EU instances are working on their privacy policy at the moment, we will soon be able to share some examples !
+
+You have then a field here where you can put the link to a PDF version of your privacy policy document. It will display in the footer, near the cookies policy.
 
 ## **Embedded Shopfront Settings**
 
 ![](../.gitbook/assets/embed.png)
 
-Each instance has the choice of enabling or disabling embedded shopfronts. You can turn the feature on and off.
+Each instance has the choice of enabling or disabling embedded shopfronts \(enable users to embed their shopfront in an external website, like a wordpress for instance\). You can turn the feature on and off.
 
 If your instance is enabling embedded shopfronts, you’ll need to give each user who wants to embed their shop permission to embed it in their external website. To do this you need to enter their external website URL in the ‘external domain whitelist’. Write the URL without www. or http, as shown below. Separate each by a space. Only once the external URL is on this list will the user be able to embed their shop on that website.
 
