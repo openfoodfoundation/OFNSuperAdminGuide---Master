@@ -30,9 +30,11 @@ This image will sit in the background of the homepage. It’s the first image th
 
 ## Sign-up pages
 
-The following fields relates to these pages:
+The following fields relates to the "sell" page accessible from the "Join Us" section in the footer :
 
-![](https://community.openfoodnetwork.org/uploads/default/original/1X/fff5ad8c77c28b170017e290b1e3a838eefa8ed8.png)
+![](../.gitbook/assets/capture-du-2019-05-27-21-31-16.png)
+
+![](../.gitbook/assets/capture-du-2019-05-27-21-31-32.png)
 
 _Leaving any of the next 9 fields blank will not remove the section from the pages. The heading will still be there, just without any content below._
 
@@ -53,6 +55,8 @@ _Leaving any of the next 9 fields blank will not remove the section from the pag
 **Group signup pricing table html:** Insert HTML code for the pricing table for groups,  
 **Group signup case studies html:** Insert HTML code for group case studies.  
 **Group signup detail html:** Insert HTML code for more detail on group signup.
+
+To get some existing html code and copy-paste-adapt it, ask another instance manager ! You can also reuse some infographics, like [this one](https://drive.google.com/open?id=0B_HDFsX1e_2VQUlaTVBPcGVQR3M), that other instances use.
 
 ## Main menu links
 

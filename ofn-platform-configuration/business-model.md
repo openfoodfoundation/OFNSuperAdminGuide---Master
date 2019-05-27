@@ -6,7 +6,7 @@ This fee structure will visible to customers. The actual billing is not automati
 
 ![](../.gitbook/assets/businessmodel.png)
 
-The above setup shows a fee structure where users are charged 2% of sales, capped at $50. This excludes GST \(tax\), which is applied at a rate of 10%.
+The above setup shows a fee structure where users are charged 2% of sales, capped at $50. This excludes tax, which is applied at a rate of 10%.
 
 **Shop trial length:** This is the period of time from when the first order is placed in a shop that users won’t be billed for activity.  
 **Fixed monthly charge:** This amount will be charged to all users with a shopfront, regardless of the levels of sales they made.  

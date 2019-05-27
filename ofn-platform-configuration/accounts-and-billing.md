@@ -2,13 +2,17 @@
 
 Accounts and Billing is a tool that instances can use to bill their users.
 
+{% hint style="info" %}
+This super-admin feature was only used by Australian instance and is going to disappear. We are now using zappier to create integrations with invoicing systems.
+{% endhint %}
+
 This tab is where you come to generate invoices for your users. Before you do this, you should set up your fee structure in [Business Model Configuration](business-model.md).
 
 ![](../.gitbook/assets/accountsbilling.png)
 
 **Accounts Administration Distributor**: This is an enterprise created for the purpose of billing your enterprise users. This enterprise, and it’s owner should be exclusively used for operating the enterprise user billing activities. So firstly create a user and an enterprise \(we called ours Accounts and Billing\). Set this enterprise as a producer selling own, and make it invisible. Then select this enterprise from the list. Once you do this two new fields will open below.
 
-**Default Accounts Payment Method**and**Default Accounts Shipping Method**: Create a payment and shipping method for your Accounts enterprise. These are arbitrary and are just needed to make the enterprise valid.
+**Default Accounts Payment Method** and **Default Accounts Shipping Method**: Create a payment and shipping method for your Accounts enterprise. These are arbitrary and are just needed to make the enterprise valid.
 
 **Update Invoices**: There is the option to automatically update your invoices each night at 1:00am. If this is selected, when your users go to admin/account they will view an up-to-date figure for what they will be billed for.
 
@@ -33,5 +37,5 @@ This report is formatted for import into Xero accounting package.
 **Viewing Invoices/Account \(As enterprise User\)**  
 Going to [https://openfoodnetwork.org.au/admin/account](https://openfoodnetwork.org.au/admin/account) will take the user to their personal account list. Here they’ll see the balance of their current month, and the previous month’s finalised invoice total, for each of their enterprises.
 
-Note: I believe only enterprise owner will see the account page- if the user has no account, and they try to access this page they get the error page.
+Note: only the enterprise owner will see the account page - if the user has no account, and they try to access this page they get the error page.
 
