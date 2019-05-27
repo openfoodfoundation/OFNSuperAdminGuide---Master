@@ -1,5 +1,7 @@
 # Shipping Categories
 
+\[to be reviewed with Rachel\]
+
 Shipping categories can be used to help provide information that might be relevant during shipping. The primary motivation for the addition of shipping categories was to enable products to be labelled as ‘Temperature Controlled’, meaning they require refrigeration or heat. This can then be used to filter into reports.
 
 Currently Shipping Categories is only used to denote ‘Temperature Controlled’ Items in specific reports. See Current Usage below for details.
