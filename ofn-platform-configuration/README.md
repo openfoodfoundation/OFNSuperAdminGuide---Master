@@ -1,18 +1,8 @@
 # OFN platform configuration
 
-When you're logged in as super-admin, click on 'configuration' in the top blue menu.
+When you're logged in as super-admin, click on 'configuration' in the top blue menu, you lend in the[ General Setting](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/ofn-platform-configuration/general-settings) page and can start the configuration !
 
-* Will be set up already
-
-\*\*Tax categories, tax rates, tax settings\*\*
-
-* Create your tax categories in 'tax categories'. This is just the name of the categories.
-* In 'tax rate' you can apply the calculator to the 'tax categories' you have created.
-* In tax settings, you can select if the tax selection is compulsory, if it is applied to shipping and billing
-
-For your reference, the image below shows Australia's flat rate 10% tax in 'tax rate'
-
-&lt;img src="/uploads/default/original/1X/21a143fd7f2a466b07dcdaea8be00d78c562dcf5.png" width="639" height="500"&gt;
+![](../.gitbook/assets/capture-du-2019-05-27-15-22-58.png)
 
 \*\*Zones, Countries States\*\*
 
