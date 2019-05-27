@@ -24,10 +24,10 @@
   * [Accounts & Billing](ofn-platform-configuration/accounts-and-billing.md)
   * [Stripe Connect](ofn-platform-configuration/stripe-connect.md)
   * [Matomo settings](ofn-platform-configuration/matomo.md)
-* [Translate in your own language](translate-in-your-own-language.md)
-* [Set up your user guide](set-up-your-user-guide.md)
 * [Producer and Product Properties](producer-and-product-properties.md)
 * [Managing Users](managing-users.md)
 * [Groups](groups.md)
+* [Translate in your own language](translate-in-your-own-language.md)
+* [Set up your user guide](set-up-your-user-guide.md)
 * [Integrations and business intelligence](integrations-and-business-intelligence.md)
 

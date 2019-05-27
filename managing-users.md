@@ -28,15 +28,16 @@ Once a user becomes an owner or a manager of an enterprise, they'll become an en
 
 There are four ways to become an Enterprise Owner
 
-* If joining through the front end sign up process, found at openfoodnetwork.org.au/register, the User will automatically become the owner of the enterprise they create.
-* If a logged in Enterprise manager or Owner creates an Enterprise from admin, they will be the owner of that Enterprise
+* If joining through the front end sign up process, found at openfoodnetwork.org.au/register \(for the Australian instance, as an example\), the User will automatically become the owner of the enterprise they create.
+* If a logged in Enterprise manager or Owner creates an Enterprise from admin, they will be the owner of that Enterprise.
 * a User can be granted ‘ownership’ of an enterprise by a SuperAdmin . This can be done on the profile form of the enterprise or the enterprise index page \(see below\). Note, the new owner must be an existing user and manager of the Enterprise.
-* the Enterprise Owner can switch ownership to another Manager
+* the Enterprise Owner can switch ownership to another Manager.
 
 An enterprise can have zero, one or more managers. Managers can’t affect other Managers.
 
 * A user can manage one or more enterprises. The admin interfaces enable them to manage multiple enterprises without logging out and in.
-* By default a user can only own one enterprise, however this limit can be raised by a SuperAdmin \(by editing the User\).
+* By default a user can only own five enterprises, however this limit can be raised by a SuperAdmin \(by editing the User\).
+* In order to become a manager, the Enterprise Owner must add you as a manager from the enterprise settings.
 
 ## Super-Admin Users
 
@@ -47,17 +48,15 @@ Super-Admin Users have the highest level of permission and acts as site administ
 
 ### Administering Users as SuperAdmin
 
-SuperAdmin users can create new users, assign users as managers/owners of eneterprises and create more SuperAdmin users.
+SuperAdmin users can create new users, assign users as managers/owners of enterprises and create more SuperAdmin users.
 
 This is done in the Users tab \(only visible to SuperAdmin\)
 
-![](https://community.openfoodnetwork.org/uploads/default/106/ffc23ec6a21b3446.png)
-
-![](https://community.openfoodnetwork.org/uploads/default/108/5cd89ee8388552e7.png)
+![](.gitbook/assets/capture-du-2019-05-27-22-27-23.png)
 
 **Adding a basic users**
 
-You must provide an email address, and create a password. Leave the enterprise limit as 1 and don't select either the Admin or User box.
+You must provide an email address, and create a password. Leave the enterprise limit as 5 and don't select either the Admin or User box.
 
 **Adding a SuperAdmin user**
 
@@ -66,4 +65,8 @@ You must provide an email address, and create a password. Raise the enterprise l
 ### Assigning a user to own/manage and enterprise
 
 Go to Enterprises in the horizontal blue menu. Select the enterprise you wish to assign a manager/owner to. Go to the Users tab and add the user as either the owner or manager.
+
+![](.gitbook/assets/capture-du-2019-05-27-22-30-49.png)
+
+![](.gitbook/assets/capture-du-2019-05-27-22-31-01.png)
 
