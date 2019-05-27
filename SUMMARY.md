@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Governance](governance.md)
 * [Deployment and system administration](deployment-and-system-administration.md)
 * [OFN platform configuration](ofn-platform-configuration/README.md)
   * [General Settings](ofn-platform-configuration/general-settings.md)

@@ -7,18 +7,15 @@ This User Guide is for people who are setting up, hosting and managing their own
 There are a couple of things you need to configure to get all the power out of this piece of code:
 
 * [Configuration Basics](ofn-platform-configuration/)
-* Countries and states  
-* Taxonomies  
-* [Taxes and Tax Zones  ](ofn-platform-configuration/taxes-and-tax-zones.md)
-* Formats for numbers  
-* [Image storage - S3?](https://github.com/openfoodfoundation/ofn-install/wiki/File-storage)
-* Inventory settings
-* Invoice format  
-* Stripe \(if you want to enable Stripe payments\)
+* [Producer and products properties](producer-and-product-properties.md)
+* [Managing users](managing-users.md)
+* [Groups](groups.md)
 
-Also for your website to work in your local language you will need to set you up an account on Transifex and translate all the content.
+Also for your website to work in your local language and make your instance multi-lingual, you'll find everything [here](translate-in-your-own-language.md).
 
-You can also create your own localized version of the OFN Gitbook user guide.
+You can also [create your own localized version of the OFN Gitbook user guide](set-up-your-user-guide.md).
+
+And last but not least, you will learn [how to create "zaps"](integrations-and-business-intelligence.md) to integrate the OFN with some external systems like invoicing or newsletter tools, and get business intelligence data you might need to operate properly your instance.
 
 This guide book takes you step by step on your journey to set up you OFN instance as a super-admin. We won't talk about developers / system administration stuff here, for that please see our [github wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki).
 
