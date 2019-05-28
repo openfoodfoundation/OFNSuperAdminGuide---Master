@@ -54,7 +54,9 @@ What you want now is to describe what you want to happen when the trigger happen
 
 ![](../.gitbook/assets/capture-du-2019-05-28-18-26-53.png)
 
-* \[to be continued\]
+* You then have some options to setup on what you want to happen on Mailchimp side. You will select the Mailchimp audience that you want the new customer to be added to. 
 
+![](../.gitbook/assets/capture-du-2019-05-28-18-34-42%20%281%29.png)
 
+\[to be completed\]
 
