@@ -15,7 +15,7 @@ Also for your website to work in your local language and make your instance mult
 
 You can also [create your own localized version of the OFN Gitbook user guide](set-up-your-user-guide.md).
 
-And last but not least, you will learn [how to create "zaps"](integrations-and-business-intelligence.md) to integrate the OFN with some external systems like invoicing or newsletter tools, and get business intelligence data you might need to operate properly your instance.
+And last but not least, you will learn [how to create "zaps"](integrations-and-business-intelligence/) to integrate the OFN with some external systems like invoicing or newsletter tools, and get business intelligence data you might need to operate properly your instance.
 
 This guide book takes you step by step on your journey to set up you OFN instance as a super-admin. We won't talk about developers / system administration stuff here, for that please see our [github wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki).
 

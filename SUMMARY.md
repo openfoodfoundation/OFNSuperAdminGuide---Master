@@ -28,5 +28,6 @@
 * [Groups](groups.md)
 * [Translate in your own language](translate-in-your-own-language.md)
 * [Set up your user guide](set-up-your-user-guide.md)
-* [Integrations and business intelligence](integrations-and-business-intelligence.md)
+* [Integrations and business intelligence](integrations-and-business-intelligence/README.md)
+  * [Integrate OFN with Mailchimp](integrations-and-business-intelligence/integrate-ofn-with-mailchimp.md)
 
