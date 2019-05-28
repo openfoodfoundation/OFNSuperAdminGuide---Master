@@ -37,8 +37,21 @@ For now only the interface navigation is multilingual. Data are not, so some inf
 
 We hope to be able to move forward quickly on making those multilingual !
 
-  
+## Using Auto/Machine-Translate
 
+You can do a first cut of all your translations very quickly using google's machine translation engine. Once this is done, you can spend your time going through and 'Reviewing' to revise and correct rather than doing everything from scratch.
+
+To do the machine translation, go to 'Untranslated' Tab. In this case there are none untranslated, but when there are you can just 'select all'. You then click on the small 'lightening' button and the magic happens.
+
+![](.gitbook/assets/transifex1.png)
+
+## Review Translations <a id="review-translations"></a>
+
+Once you have either manually or automatically done the first round of translations, they move into the Unreviewed panel. Strings that are in here ARE included in the live language file, but they are kept separately from the 'double-checked' translations. NB. If you use the machine translation above, all newly translated strings are in the Unreviewed panel
+
+You can then open the Unreviewed panel and commence checking / correcting strings. The quickest way is probably to select multiple strings that you are happy with and then apply 'Reviewed' to them at the same time \(see below\). You can then work through correcting the remaining ones.
+
+![](.gitbook/assets/transifex2.png)
 
 
 
