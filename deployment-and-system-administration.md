@@ -12,7 +12,7 @@ Maybe you are not technical and don't have any tech people in your team. Or mayb
 
 ### System administration global team
 
-In order to make system administration of all OFN affiliate easier and more efficient and reliable, we have built a "global sys admin team", composed of a few very reliable and trustful devops. Those people are granted access to the servers of all OFN affiliates, so that they can intervene whenever it's needed. The good part of it is also that some complex maintenance can be done using time differences, so a devops in Aus will be able to do maintenance of UK servers while UK is asleep.
+In order to make system administration of all OFN affiliates easier and more efficient and reliable, we have built a "global sys admin team", composed of a few very reliable and trustful devops. Those people are granted access to the servers of all OFN affiliates, so that they can intervene whenever it's needed. The good part of it is also that some complex maintenance can be done using time differences, so a devops in Aus will be able to do maintenance of UK servers while UK is asleep.
 
 ### How to get support from that team
 
