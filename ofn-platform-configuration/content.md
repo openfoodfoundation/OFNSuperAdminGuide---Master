@@ -62,13 +62,19 @@ To get some existing html code and copy-paste-adapt it, ask another instance man
 
 Here you can select which menu items you want to include in your header menu.
 
-The available menus are sources from Transifex so you need first to make sure you have properly translated them \([see relevant paragraph in the translation section](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/translate-in-your-own-language#some-strings-that-you-need-to-be-careful-about)\).
+![](../.gitbook/assets/capture-du-2019-05-27-20-22-28.png)
+
+The available menus are sources from Transifex so you need first to make sure you have properly translated them and added the right url \([see relevant paragraph in the translation section](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/translate-in-your-own-language#some-strings-that-you-need-to-be-careful-about)\).
 
 {% hint style="info" %}
 The translations for those menu in Transifex is different from the other translations, so pay attention ! 
 {% endhint %}
 
 Then, selecting an items turns it visible or invisible.
+
+The name in the field is the name that identify the icons used on the hamburger menu when accessing the platform on a small screen, like a phone. You can ignore them.
+
+![](../.gitbook/assets/screenshot-2019-05-27-at-21.32.08.png)
 
 ## Footer and External Links
 
