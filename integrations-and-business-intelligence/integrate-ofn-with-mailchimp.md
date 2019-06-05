@@ -7,6 +7,10 @@ You might want integrate OFN with Mailchimp for two main reasons:
 
 Today you can use Zapier to establish this kind of integrations. We want to improve it later on with cleaner solution, but for now it does the job !
 
+# Requirements
+- Premium Zapier account (ask on the Zappiness slack channel for more details)
+- PostgresDB connection in Zapier
+
 ## Feed any new customer of hub into the Mailchimp audience of that hub
 
 **What you want is :** When there is a new order, you want the name and email of the customer to be added to the Mailchimp audience list of the hub.
