@@ -7,4 +7,4 @@ This integration will enable OFN Super Admins to calculate the turnover of their
 - PostgresDB connection in Zapier
 
 # Instructions
-[> Click here for full instructions] (https://docs.google.com/document/d/18dgCgBzaLwJzzT-y2YBQ9Of-mCZrLTlZ4y1jz5dYAls/edit)
+[Click here for full instructions] (https://docs.google.com/document/d/18dgCgBzaLwJzzT-y2YBQ9Of-mCZrLTlZ4y1jz5dYAls/edit)
