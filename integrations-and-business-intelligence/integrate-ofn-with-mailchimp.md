@@ -7,15 +7,16 @@ You might want integrate OFN with Mailchimp for two main reasons:
 
 Today you can use Zapier to establish this kind of integrations. We want to improve it later on with cleaner solution, but for now it does the job !
 
-# Requirements
-- Premium Zapier account (ask on the Zappiness slack channel for more details)
-- PostgresDB connection in Zapier
+## Requirements
+
+* Premium Zapier account \(ask on the Zappiness slack channel for more details\)
+* PostgresDB connection in Zapier
 
 ## Feed any new customer of hub into the Mailchimp audience of that hub
 
 **What you want is :** When there is a new order, you want the name and email of the customer to be added to the Mailchimp audience list of the hub.
 
-### The trigger
+#### The trigger
 
 * Select as a trigger : PostgreSQL
 
@@ -35,14 +36,13 @@ You want the trigger to be : when an order is made by a new customer in the hub'
 
 ![](../.gitbook/assets/capture-du-2019-05-28-18-05-38.png)
 
-In this case the query is : 
+In this case the query is :
 
 ```text
 select spree_addresses.firstname, spree_orders.email from spree_addresses, spree_orders where spree_orders.bill_address_id = spree_addresses.id  and state = 'complete' and distributor_id = xxx
-
 ```
 
-### The action
+#### The action
 
 What you want now is to describe what you want to happen when the trigger happens. Here, you want that new customer email to be added to the Mailchimp audience of the hub.
 
