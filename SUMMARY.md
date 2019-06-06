@@ -30,4 +30,7 @@
 * [Set up your user guide](set-up-your-user-guide.md)
 * [Integrations and business intelligence](integrations-and-business-intelligence/README.md)
   * [Integrate OFN with Mailchimp](integrations-and-business-intelligence/integrate-ofn-with-mailchimp.md)
+  * [Create Automatic Invoices to Users] (integrations-and-business-intelligence/create-automatic-invoices.md)
+  * [Create 'Find order by id' Action] (integrations-and-business-intelligence/create-find-order-by-id-action.md)
+  * [Integrate OFN with Accounting Package] (integrations-and-business-intelligence/integrate-ofn-with-accounting-package.md)
 
