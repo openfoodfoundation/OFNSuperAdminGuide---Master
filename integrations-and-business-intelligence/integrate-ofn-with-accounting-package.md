@@ -7,4 +7,4 @@ This integration will enable OFN Super Admins to create integrations with their 
 - PostgresDB connection in Zapier
 
 # Instructions
-[Click here for full instructions] (https://docs.google.com/document/d/1i-bN3RBLcNruKMoiA4rk67G9kIT_dK0a5EXNgNfPN6c/edit)
+[Click here for full instructions](https://docs.google.com/document/d/1i-bN3RBLcNruKMoiA4rk67G9kIT_dK0a5EXNgNfPN6c/edit)
