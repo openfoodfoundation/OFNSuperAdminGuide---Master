@@ -1,6 +1,6 @@
 # Embed a shopfront or a group page in an external website
 
-This feature lets users who have OFN shopfronts embed their shop and/or group into their own website. This gives customers a more fluid experience and avoids the need to redirect them between multiple websites. It also allows users to retain some of their visual branding in the shop. When you embed your OFN shop in your own site, your OFN base shop will remain, so customers can choose where they want to shop. [The User Guide for enterprises using embedded shopfronts is here](https://ofn-user-guide.gitbooks.io/ofn-user-guide-master/content/embedded-shopfronts.html). 
+This feature lets users who have OFN shopfronts embed their shop and/or group into their own website. This gives customers a more fluid experience and avoids the need to redirect them between multiple websites. It also allows users to retain some of their visual branding in the shop. When you embed your OFN shop in your own site, your OFN base shop will remain, so customers can choose where they want to shop. [The User Guide for enterprises using embedded shopfronts is here](https://ofn-user-guide.gitbooks.io/ofn-user-guide-master/content/embedded-shopfronts.html).
 
 If a user ask you for this feature, you need to add their domain in the whitelist of domains, in [General Settings](../ofn-platform-configuration/general-settings.md). Then they have one line of code to integrate in their website.
 
