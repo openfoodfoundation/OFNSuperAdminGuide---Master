@@ -12,6 +12,8 @@
 
 **Site URL:** e.g. openfoodnetwork.org.au
 
+*Note: You will need to restart the Open Food Netowrk unicorn service for the change of URL to apply (e.g. when an email verification is sent for new sign ups). Login via SSH to your server and run the cmd: `sudo systemctl restart unicorn_openfoodnetwork.service` or alternatively, reboot the server.*
+
 Then scroll down to see further settings. Emulate tick boxes as in image below or vary if obvious for your instance e.g. currency.
 
 ## **Security Settings**
