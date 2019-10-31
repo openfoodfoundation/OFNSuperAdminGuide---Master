@@ -70,3 +70,17 @@ Go to Enterprises in the horizontal blue menu. Select the enterprise you wish to
 
 ![](.gitbook/assets/capture-du-2019-05-27-22-31-01.png)
 
+### Increasing how many enterprises a User can mange
+
+When signed is as Super-Admin navigate to the Users tab. You will see the list of all users. 
+
+![](.gitbook/assets/increase-enterprise-limit-for-a-user.jpg)
+
+Use the search field to find the user who has asked to have a higher limit for how many enterprises they can manage \(use their email address to search with\).  When they come up, click their email address to edit the User. 
+
+In the Enterprise Limit field enter the text of how many enterprises they should be able to manage. 
+
+![](.gitbook/assets/edit-user.jpg)
+
+Click the Update button to save changes
+
