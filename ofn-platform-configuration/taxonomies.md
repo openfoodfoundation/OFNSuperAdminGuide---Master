@@ -16,7 +16,9 @@ Once setup, your view of the taxonomies page will be something like below.
 
 ![](../.gitbook/assets/productstaxonomies.png)
 
-There are lots of discussion on how we should improve the logix behind those taxonomies, as some user might need more refined level \(for instance a meat seller would like taxonomies for each type of meat to enable their customer to search more easily within their shop\). We might also want to unify somehow the instance taxonomies to make interoperability between instances possible \([see discussion here](https://community.openfoodnetwork.org/t/categories-and-taxons-international-unification/978)\). It is not yet a priority but we know the current way taxonomies are working is not ideal.
+There are lots of discussion on how we should improve the logics behind those taxonomies, as some user might need more refined level \(for instance a meat seller would like taxonomies for each type of meat to enable their customer to search more easily within their shop\). We might also want to unify somehow the instance taxonomies to make interoperability between instances possible \([see discussion here](https://community.openfoodnetwork.org/t/categories-and-taxons-international-unification/978)\). It is not yet a priority but we know the current way taxonomies are working is not ideal.
+
+A rough mapping of the taxonomies used in different instances is [here ](https://docs.google.com/spreadsheets/d/1AH5nFzDdPBA1VBJBFahJMC3yqU_h3vJIne1ckEmjei4/edit#gid=0)
 
 Taxonomies cannot be translated for a multi-lingual instance as well, they can display in only one language for an instance. 
 
