@@ -11,7 +11,7 @@ There are a couple of things you need to configure to get all the power out of t
 * [Managing users](managing-users.md)
 * [Groups](groups.md)
 
-Also for your website to work in your local language and make your instance multi-lingual, you'll find everything [here](translate-in-your-own-language.md).
+Also for your website to work in your local language and make your instance multi-lingual, you'll find everything [here](translate-in-your-own-language/).
 
 You can also [create your own localized version of the OFN Gitbook user guide](set-up-your-user-guide.md).
 
