@@ -1,10 +1,3 @@
----
-description: >-
-  Most Open Food Network instances use a wordpress site for additional content
-  and an 'About' page as this is quicker and easier for communications team
-  members to add or change info
----
-
 # Setting up your 'About' page on wordpress
 
 ### **HOW TO SET UP THE THEME ON YOUR SITE**

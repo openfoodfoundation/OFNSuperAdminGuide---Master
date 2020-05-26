@@ -42,4 +42,5 @@
   * [Integrate OFN with Accounting Package](integrations-and-business-intelligence/integrate-ofn-with-accounting-package.md)
   * [Send New Enterprises to Airtable as CRM](integrations-and-business-intelligence/send-new-enterprises-to-airtable-as-crm.md)
 * [Contribute to improving our super admin help](contribute-to-improving-our-super-admin-help.md)
+* [Creating your instance logo](creating-your-instance-logo.md)
 
