@@ -34,6 +34,7 @@
   * [Style guide](setting-up-your-about-page-on-wordpress/style-guide.md)
   * [Content included in the OFN Divi pack](setting-up-your-about-page-on-wordpress/content-included-in-the-ofn-divi-pack.md)
   * [Tips, tricks & theme quirks](setting-up-your-about-page-on-wordpress/tips-tricks-and-theme-quirks.md)
+* [Creating your instance logo](creating-your-instance-logo.md)
 * [Integrations and business intelligence](integrations-and-business-intelligence/README.md)
   * [Embed a shopfront or a group page in an external website](integrations-and-business-intelligence/embed-a-shopfront-or-a-group-page-in-an-external-website.md)
   * [Integrate OFN with Mailchimp](integrations-and-business-intelligence/integrate-ofn-with-mailchimp.md)
@@ -42,5 +43,4 @@
   * [Integrate OFN with Accounting Package](integrations-and-business-intelligence/integrate-ofn-with-accounting-package.md)
   * [Send New Enterprises to Airtable as CRM](integrations-and-business-intelligence/send-new-enterprises-to-airtable-as-crm.md)
 * [Contribute to improving our super admin help](contribute-to-improving-our-super-admin-help.md)
-* [Creating your instance logo](creating-your-instance-logo.md)
 
