@@ -102,7 +102,9 @@
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### **TESTING**
+</table>
+
+### **TESTING**
 
 **I’ve tested as best as possible for Desktop/Tablet/Mobile presentation for all page templates/layouts however it’s important that content peeps also do this when adding/modifying pages!!**  
 

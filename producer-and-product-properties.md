@@ -10,9 +10,7 @@ Each instance can setup their own list of properties. The properties that are av
 
 Go to Products on the horizontal blue menu, and then select Properties in the green horizontal menu.
 
-![](.gitbook/assets/capture-du-2019-05-27-22-19-29.png)
-
-_Note: if you're wondering what the 'Option Types', and'Prototypes' tabs are, you can ignore these, they are remnant Spree tabs._
+![](.gitbook/assets/image%20%286%29.png)
 
 Use the **+ New Property** button to add properties.
 

@@ -103,7 +103,9 @@
       </td>
     </tr>
   </tbody>
-</table>**If you’ve already started a page, and want to insert a premade OFN layout - this is what’s currently been built for the Library:**  
+</table>
+
+**If you’ve already started a page, and want to insert a premade OFN layout - this is what’s currently been built for the Library:**  
 
 
 | **\[section\] Standard Page Gradient Banner** | ![](https://lh5.googleusercontent.com/xf9RKM102vi9RXBfqUh1Q20qXWkSYiXGadLpFJLH4xvercVV0jXgzijDLHhN689Z_liMhwoJyTJ0BxuONniOI1wxfUEx26QLE9EnnUw9s_Dvns2O_IQH99-WIZi3M0hZ6qlG8Aof) |
