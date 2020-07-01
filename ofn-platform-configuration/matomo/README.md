@@ -1,5 +1,5 @@
 ---
-description: How to plug Matomo to your instance in order to measure users behaviour?
+description: How to plug Matomo to your instance in order to measure users behaviour.
 ---
 
 # Matomo settings
