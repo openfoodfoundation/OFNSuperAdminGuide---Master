@@ -41,5 +41,7 @@
   * [Create 'Find order by id' Action](integrations-and-business-intelligence/create-find-order-by-id-action.md)
   * [Integrate OFN with Accounting Package](integrations-and-business-intelligence/integrate-ofn-with-accounting-package.md)
   * [Send New Enterprises to Airtable as CRM](integrations-and-business-intelligence/send-new-enterprises-to-airtable-as-crm.md)
+* [Tracking data using Matomo](tracking-data-using-matomo/README.md)
+  * [Installing Matomo on your wordpress](tracking-data-using-matomo/installing-matomo-on-your-wordpress.md)
 * [Contribute to improving our super admin help](contribute-to-improving-our-super-admin-help.md)
 
