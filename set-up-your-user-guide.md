@@ -1,6 +1,14 @@
 # Set up your user guide
 
-The OFN community use Gitbook to host their user guides. You can choose some other tool if you prefer, but to make your life easier, we propose you a tutorial on how to set up a user guide using Gitbook.
+The OFN community use Gitbook to host their user guides. You can choose some other tool if you prefer, but this section will refer to how to do it on Gitbook only.
+
+The OFN global community has a community edition account over at Gitbook so we can create unlimited number of guides and add as much contributors as we want to.  
+  
+This is very interesting because it enables the community to collaborate on updating those guides and their translation :-\)  
+  
+**So the easiest solution, is to join the \#user-guide channel on Slack and ask for a space on our global gitbook account. You would be admin of it, and be able to invite all your collaborators to work on it.**  
+  
+Otherwise, if you really want to have your own space, and no collaboration from the community to your version of the user guide, here are the steps to follow:
 
 ## 1- Create an organization on Gitbook
 
