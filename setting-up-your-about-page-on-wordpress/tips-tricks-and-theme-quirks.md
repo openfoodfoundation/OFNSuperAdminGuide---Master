@@ -61,3 +61,9 @@ Embed Elegant Theme Icon font
 * [https://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website](https://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website)
 * Allows for the icon font to be embedded in the theme - so when base theme is copied for use in a new region, the font doesn’t need to be manually added/uploaded after.
 
+**Create good social media previews**
+
+Make sure you add a featured image and preview text for your pages and posts so that they have a nice preview on social media. Scroll down and on the righthand side there is a place where you can add those things.
+
+![](../.gitbook/assets/social-media-website-previews.jpg)
+
