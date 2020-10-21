@@ -44,4 +44,9 @@
 * [Tracking data using Matomo](tracking-data-using-matomo/README.md)
   * [Installing Matomo on your wordpress](tracking-data-using-matomo/installing-matomo-on-your-wordpress.md)
 * [Contribute to improving our super admin help](contribute-to-improving-our-super-admin-help.md)
+* [Australian Instance Management](australian-instance-management/README.md)
+  * [Recruitment](australian-instance-management/recruitment.md)
+  * [Onboarding](australian-instance-management/onboarding.md)
+  * [Happy team processes](australian-instance-management/happy-team-processes.md)
+  * [Livelihoods model](australian-instance-management/livelihoods-model.md)
 
