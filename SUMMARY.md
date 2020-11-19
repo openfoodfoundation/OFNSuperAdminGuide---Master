@@ -67,7 +67,3 @@
 * [Updating the User Guide](customer-support-resources/updating-the-user-guide.md)
 * [Contribute to this document](customer-support-resources/contribute-to-improving-our-super-admin-help.md)
 
----
-
-* [Providing Support](providing-support.md)
-
