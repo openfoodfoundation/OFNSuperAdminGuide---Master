@@ -43,10 +43,31 @@
   * [Send New Enterprises to Airtable as CRM](integrations-and-business-intelligence/send-new-enterprises-to-airtable-as-crm.md)
 * [Tracking data using Matomo](tracking-data-using-matomo/README.md)
   * [Installing Matomo on your wordpress](tracking-data-using-matomo/installing-matomo-on-your-wordpress.md)
-* [Contribute to improving our super admin help](contribute-to-improving-our-super-admin-help.md)
 * [Australian Instance Management](australian-instance-management/README.md)
   * [Recruitment](australian-instance-management/recruitment.md)
   * [Onboarding](australian-instance-management/onboarding.md)
   * [Happy team processes](australian-instance-management/happy-team-processes.md)
   * [Livelihoods model](australian-instance-management/livelihoods-model.md)
+
+## Customer Support Resources
+
+* [The Customer Support Role](customer-support-resources/the-customer-support-role.md)
+* [Global Support Contacts](customer-support-resources/global-support-contacts.md)
+* [Access and Passwords](customer-support-resources/access-and-passwords.md)
+* [Using SuperAdmin](customer-support-resources/using-superadmin/README.md)
+  * [Tips for Speedier Navigation of Superadmin](customer-support-resources/using-superadmin/tips-for-speedier-navigation-of-superadmin.md)
+  * [Tips for Accessing an Enterprise Dashboard](customer-support-resources/using-superadmin/tips-for-accessing-an-enterprise-dashboard.md)
+  * [Add Yourself as a Manager of an Enterprise](customer-support-resources/using-superadmin/add-yourself-as-a-manager-of-an-enterprise.md)
+* [Common Investigations \(FAQs\)](customer-support-resources/common-investigations-faqs.md)
+* [Shared Resources](customer-support-resources/shared-resources/README.md)
+  * [How To Videos](customer-support-resources/shared-resources/how-to-videos.md)
+  * [Email Templates](customer-support-resources/shared-resources/email-templates/README.md)
+    * [New Producer Sign Up](customer-support-resources/shared-resources/email-templates/new-producer-sign-up.md)
+  * [Farmers Market Resources](customer-support-resources/shared-resources/farmers-market-resources.md)
+* [Updating the User Guide](customer-support-resources/updating-the-user-guide.md)
+* [Contribute to this document](customer-support-resources/contribute-to-improving-our-super-admin-help.md)
+
+---
+
+* [Providing Support](providing-support.md)
 

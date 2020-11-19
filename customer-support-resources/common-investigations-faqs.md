@@ -1,0 +1,59 @@
+---
+description: Quick links to help you resolve common enquiries
+---
+
+# Common Investigations \(FAQs\)
+
+Below are some common scenarios that a Customer Support team member might have to investigate or find answers to. The table below shows where to find the answer in the OFN platform and where you can find more information in the User Guide. If you have a frequently asked question that is not covered, please add it below. 
+
+If you have longer or more detailed information that will help others answer a question or investigate a problem \(eg. an email template, a how-to guide\), please add it to [Shared Resources](shared-resources/) and link to it in the **More Information** column below. 
+
+To resolve most of the queries below, you should be logged in to OFN with an account that has Superadmin privileges OR as a Manager of an OFN Enterprise. See more information about [Using Superadmin](using-superadmin/) and [Add Yourself As A Manager of an Enterprise](using-superadmin/add-yourself-as-a-manager-of-an-enterprise.md)
+
+## Shopper Enquiries
+
+| Investigation | Where to find in OFN Admin | More information |
+| :--- | :--- | :--- |
+| Who did a customer place an order with? | **OFN Platform Emails** Log into email account that the platform sends emails from \(eg for Aus it is orders@openfoodnetwork.org.au\). Search for the customer's email address to find recent order confirmation emails. | Where to find / specify this email? |
+| Is there an OFN shop near me? |  |  |
+| I can't log in. Can you reset my password |  |  |
+| Add a new question here | Click on the little plus symbol below to add a new row |  |
+|  |  |  |
+
+## Set Up & Ownership
+
+| Investigation | Where to find in OFN Admin | More information |
+| :--- | :--- | :--- |
+| Did they make it through the set up process? | **Dashboard - Primary Details** No package selected | [Quick Start Guides](https://guide.openfoodnetwork.org/quick-start-guides) |
+| Is their Account Visible? | **Dashboard - Primary Details**  Visible checkbox checked | [Enterprise Settings](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings) |
+| Are they a Producer / ie. can add products? | **Dashboard - Primary Details**  Producer checkbox checked | [Package / Profile types - Producers](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/package-types#for-producers) |
+| Do they have any products yet? | **Products** Select Producer name from drop down. If not visible, they are not set as a Producer | [Products](https://guide.openfoodnetwork.org/basic-features/products-1) |
+| Which package have they selected? | **Dashboard - Primary Details**  Selection options for Sells: None \(Profile\) Own \(Shop\) Any \(Hub\) | [Package / Profile Types](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/package-types) |
+| Who is the owner of the account? | **Dashboard - Users** Owner email address | [Enterprise Settings](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings) |
+| Can I change the owner of the account? | **Dashboard - Users** Before you can change the email address in the Owner field, you need to make that email address a Manager of the account. If the new email address is not already on OFN, you need to select ‘invite an unregistered user’ and wait for that person to confirm the email. | [Change Profile Managers / Owners](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/transfer-ownership) |
+| Who set up the account? | **Dashboard - Users** Usually this is the owner, unless it has been changed since originally set up. Some profiles have been set up by a volunteer or someone at OFN, and if so, the Enterprises may not be aware their profile exists. Possible OFN owner email addresses in Aus are variations on: hello@openfoodentwork.org.au or helpers@openfoodnetwork.org.au |  |
+| Who are the managers of the account? | **Dashboard - Users** Manager email address. NOTE: Sometimes we add ourselves as a manager of a profile, in order to see it as the enterprise sees it.  | See more info about How to Login as a Manager of an Enterprise \(ADD LINK\) |
+| Who receives email alerts when orders are placed? | **Dashboard - Users** Notifications email address | [Enterprise Settings](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings) |
+| Find out which Enterprises a customer owns or manages? | **Reports** Select _Users and Enterprises_ Report, enter the Customer’s email address and submit. Review whether they have Owner / Manager status, if they are a producer, what their package settings are and if they are visible in search. | [Reports](https://guide.openfoodnetwork.org/basic-features/reports) This section of the User guide is not currently comprehensive. The Reports features of OFN are under review |
+| Add a new question here |  |  |
+
+## Shops and Products
+
+| Investigation | Where to find in OFN Admin | More information |
+| :--- | :--- | :--- |
+| Review an Enterprise’s shop front online | Option 1: Find URL in Superadmin **Dashboard - Primary Details** Option 2: Public search Select Producer from top nav in https://openfoodnetwork.org.au Search for the Producer by name. If products are in a current order cycle, with valid shipping and payment methods, shop will appear. | [Enterprise Settings ](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings#access-your-enterprise-settings) [Order Cycles](https://guide.openfoodnetwork.org/basic-features/shopfront/order-cycle) |
+| Have they entered any information about their Enterprise? | **Dashboard - About, Address, Images, Social Media** Sometimes it’s helpful to check if there are any details in these sections to get an idea if the customer has been actively setting up their account. | [Enterprise Settings](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-settings) |
+| Have they added any products? | **Products**  First, check they are a producer \(can’t add products if not\) Select Enterprise Name in the Producer drop down and review all products listed by that Enterprise | [Products](https://guide.openfoodnetwork.org/basic-features/products-1) |
+| Have they been included in any order cycles? \(Their own or another\) | **Order Cycles** Select Enterprise Name from Enterprise drop down and see if any Order Cycles are found. | [Order Cycles](https://guide.openfoodnetwork.org/basic-features/shopfront/order-cycle) |
+| Why can’t they see their shop? | **Order Cycles Dashboard - Payment Methods Dashboard - Shipping Methods** For a shop to be visible, it needs: a\) to be in an order cycle which includes current date b\) to have shipping methods set c\) to have payment methods set | [Quick Start Guide - Shop](https://guide.openfoodnetwork.org/quick-start-guides/producer-shop-quick-setup-guide) [Shopfront](https://guide.openfoodnetwork.org/basic-features/shopfront) |
+
+## Enterprise Connections
+
+| Investigation | Where to find in OFN Admin | More information |
+| :--- | :--- | :--- |
+| Have they granted \(or been granted\) any permissions to connect with other Enterprises | **Enterprise - Permissions** In the Enterprises Tab \(slow to load\) click on the text Permissions in the green panel beneath the main menu. Enter the Enterprise Name to search for current permissions. | [Enterprise Permissions](https://guide.openfoodnetwork.org/basic-features/enterprise-profile/enterprise-to-enterprise-permissions-e2es) |
+| Giving a customer permission to own additional Enterprises. | **More - Users** Search for the email address of the User account. Click on the email address and change the Enterprise Limit. | Hubs often set up accounts for all of their producers. There is an automatic limit on how many accounts you can own, but we are happy to manually lift that for anyone who asks. |
+| Investigate complex questions of ownerships such as if a customer owns multiple Enterprises, if there are duplicate enterprises with similar names, or if you’d like to see the status of multiple enterprises in the one place | **Reports** Select Users and Enterprises Report, enter Customer email address or Enterprise names \(multiple if required\). Review user/manager status, Profile type \(producer?\), package settings, visibility in search. | [Reports](https://guide.openfoodnetwork.org/basic-features/reports) This section of the User guide is not currently comprehensive. The Reports features of OFN are under review |
+
+For more information about investigating customer enquiries, you might want to read the basics about how to Investigate Customer Enquiries first: [Customer Investigations](https://www.notion.so/Customer-Investigations-429ca073ac7f46e68a725ec8364b0c69)
+
