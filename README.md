@@ -2,7 +2,7 @@
 
 Congratulations! You have deployed the OFN code base on a server and are ready to start playing with it :-\)
 
-This User Guide is for people who are setting up, hosting and managing their own instance of the Open Food Network. Once installed and running, we refer to you as Super-Admin.
+This Guide is for people who are setting up, hosting and managing their own instance of the Open Food Network. Once installed and running, we refer to you as Super-Admin.
 
 There are a couple of things you need to configure to get all the power out of this piece of code:
 
