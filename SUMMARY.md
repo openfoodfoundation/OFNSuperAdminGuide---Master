@@ -65,5 +65,5 @@
     * [New Producer Sign Up](customer-support-resources/shared-resources/email-templates/new-producer-sign-up.md)
   * [Farmers Market Resources](customer-support-resources/shared-resources/farmers-market-resources.md)
 * [Updating the User Guide](customer-support-resources/updating-the-user-guide.md)
-* [Contribute to this document](customer-support-resources/contribute-to-improving-our-super-admin-help.md)
+* [Contribute to this document](customer-support-resources/contribute-to-this-document.md)
 
