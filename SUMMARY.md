@@ -43,6 +43,7 @@
   * [Send New Enterprises to Airtable as CRM](integrations-and-business-intelligence/send-new-enterprises-to-airtable-as-crm.md)
 * [Tracking data using Matomo](tracking-data-using-matomo/README.md)
   * [Installing Matomo on your wordpress](tracking-data-using-matomo/installing-matomo-on-your-wordpress.md)
+  * [Creating a Matomo funnel to track a specific user journey on the platform](tracking-data-using-matomo/creating-a-matomo-funnel-to-track-a-specific-user-journey-on-the-platform.md)
 * [Australian Instance Management](australian-instance-management/README.md)
   * [Recruitment](australian-instance-management/recruitment.md)
   * [Onboarding](australian-instance-management/onboarding.md)
