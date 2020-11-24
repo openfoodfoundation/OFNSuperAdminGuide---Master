@@ -36,3 +36,5 @@ Step 5 Completed - 'Converts goal' for the funnel we've already set up \(why it'
 
 You can then validate your funnel to make sure it's working properly. 
 
+You should see new data coming into your funnel reports pretty quickly. You can also 'Visit Log segmented by this funnel' to see additional info about how users are interacting through this funnel, e.g. are they coming direct or from somewhere like facebook, what other pages are they visiting in between entering the funnel and purchase \(e.g. clicking around through lots of shops, being prompted to login, etc\)
+
