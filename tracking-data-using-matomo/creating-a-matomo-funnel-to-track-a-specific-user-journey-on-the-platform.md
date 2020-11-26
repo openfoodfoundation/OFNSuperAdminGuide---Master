@@ -31,8 +31,9 @@ Our path was:
 Step 1 Group pickup delivery - 'Path contains' groups/pickup-delivery \(this means we're measuring people who come via the specific groups page we set up and are trying to measure\)  
 Step 2 Shop - 'path contains' /shop \(they have made it to a URL with /shop i.e. to a shop on the platform\)  
 Step 3 Checkout - 'path contains' /checkout \(they have made it to a URL with /checkout i.e. a shop checkout on the platform\)  
-Step 4 Order confirmation - 'Page title contains' Order Confirmation \(they have made it to a confirmed order with a unique to the transaction URL, which is why we have chosen a page title rather than path\)  
-Step 5 Completed - 'Converts goal' for the funnel we've already set up \(why it's important to get your end goal for the funnel right\)
+Step 4 Order confirmation - 'Page title contains' Order Confirmation \(they have made it to a confirmed order with a unique to the transaction URL, which is why we have chosen a page title rather than path\)
+
+Then select 'Activate funnel' and it will add Step 5 Completed - 'Converts goal' for the funnel we've already set up \(why it's important to get your end goal for the funnel right\)
 
 You can then validate your funnel to make sure it's working properly. 
 
