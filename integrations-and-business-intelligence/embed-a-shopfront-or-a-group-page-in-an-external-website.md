@@ -10,5 +10,5 @@ This feature is very limited and we know has the following limitations :
 * Also the UX can be a bit confusing, especially if a login is requested. There is no "single sign on" the user will need to create an account and login on the OFN website within the host website, which can be a bit confusing in term of UX.
 * And there is no possibility to customize the visual aspect of the integrated shop in the external website, so it's not always easy to make it looks good.
 
-We hope when we move forward on documenting and cleaning the OFN API that we can move toward some other mùore efficient solutions like widgets or plugins. Stay tuned !
+We hope when we move forward on documenting and cleaning the OFN API that we can move toward some other more efficient solutions like widgets or plugins. Stay tuned !
 
