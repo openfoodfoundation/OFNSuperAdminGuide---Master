@@ -70,7 +70,7 @@ The available menus are sources from Transifex so you need first to make sure yo
 The translations for those menu in Transifex is different from the other translations, so pay attention ! 
 {% endhint %}
 
-Then, selecting an items turns it visible or invisible.
+Then, selecting an item turns it visible or invisible.
 
 The name in the field is the name that identify the icons used on the hamburger menu when accessing the platform on a small screen, like a phone. You can ignore them.
 
