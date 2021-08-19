@@ -50,15 +50,27 @@ To make it easier we have implemented the following internationalization logic:
 
 ## Legal settings
 
-![](../.gitbook/assets/capture-du-2019-05-27-16-06-38.png)
+![](../.gitbook/assets/legal-settings.png)
 
-### **Enterprise Terms of Service**
+### **Enterprises must accept Terms of Service**
 
-The Terms of Service link can be set here for the instance. See discussion and templates [here](https://community.openfoodnetwork.org/t/instance-based-terms-of-service/734).
+This setting allows an instance to require all new enterprises signing up via the /register wizard to ‘accept terms of service’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated. If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service. 
 
-The next setting allows an instance to require all new users signing up via the /register wizard to ‘accept terms and conditions’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated.  If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service. Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
+The Terms of Service file can be uploaded on the page [Terms of Service](terms-of-service.md).
+
+Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
 
 ![](../.gitbook/assets/acceptterms.png)
+
+### Shoppers must accept Terms of Service
+
+This setting allows an instance to require all shoppers to ‘accept terms of service’ before they can place their order. The screenshot below shows what users will see if this setting is activated. If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to place orders without any mention of Terms of Service. 
+
+The Terms of Service file can be uploaded on the page [Terms of Service](terms-of-service.md).
+
+Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
+
+![](../.gitbook/assets/place-order.png)
 
 ### **Cookies and analytics tracking**
 
@@ -66,10 +78,9 @@ Depending of the location of your instance, the GDPR might require from you that
 
 The only cookie that is not compulsory for the site to work is the navigation tracking cookie that we use analytics,  it gives us data to understand how the visitors use the platform, so that we can improve their experience. 
 
-Currently there are two analytics tool you can use:
+Currently the analytics tool you can use is Matomo:
 
 * **Matomo.** This is the tool recognized as GDPR friendly. It respect the privacy of users and has been approved by CNIL in France for instance \(which protect data privacy\). If you are in a country within GDPR zone, we highly recommend you to use Matomo for your analytics tracking tool. **If you select the corresponding checkbox, the cookie policy will display the section concerning the cookies used by Matomo, and will enable users to disable these cookies if they want.**
-* **Google Analytics.** This tool is much less data friendly, we discourage you to use it, but it's available within the Spree original software we have built on, so you can still use it. **In that case, select the corresponding checkbox to display in the cookies policy the section regarding the cookies used by Google Analytics. If you make that choice, your users won't be able to disable these cookies**.
 
 ### **Privacy policy**
 

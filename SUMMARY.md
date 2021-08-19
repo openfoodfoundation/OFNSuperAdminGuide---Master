@@ -4,6 +4,7 @@
 * [Deployment and system administration](deployment-and-system-administration.md)
 * [OFN platform configuration](ofn-platform-configuration/README.md)
   * [General Settings](ofn-platform-configuration/general-settings.md)
+  * [Terms of Service](ofn-platform-configuration/terms-of-service.md)
   * [Mail Methods](ofn-platform-configuration/mail-methods.md)
   * [Image Settings](ofn-platform-configuration/image-settings.md)
   * [Taxes and Tax Zones](ofn-platform-configuration/taxes-and-tax-zones.md)
