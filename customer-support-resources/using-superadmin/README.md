@@ -18,10 +18,10 @@ Apart from editing enterprises, some other important things a Superadmin can do 
 
 Each instance has its own platform URL
 
-| Instance | URL | Staging URL |
-| :--- | :--- | :--- |
-| Aus | openfoodnetwork.org.au | staging.openfoodnetwork.org.au |
-| Add your instance |  |  |
+| Instance          | URL                    | Staging URL                    |
+| ----------------- | ---------------------- | ------------------------------ |
+| Aus               | openfoodnetwork.org.au | staging.openfoodnetwork.org.au |
+| Add your instance |                        |                                |
 
 ### The Super-Admin Handbook
 
@@ -31,7 +31,7 @@ NOTE it might be a good idea to re-structure this part of the document under a G
 
 #### **Tips for Speedier Navigation of Superadmin**
 
-For various reasons \(mostly because customer-facing issues are prioritised over internal issues that mostly only impact us - the ones doing Customer Support!\) the Superadmin view of OFN can be clunky, slow and tricky to worth with. 
+For various reasons (mostly because customer-facing issues are prioritised over internal issues that mostly only impact us - the ones doing Customer Support!) the Superadmin view of OFN can be clunky, slow and tricky to worth with. 
 
 Here are some quick tips and workarounds to carry out an investigation quickly. Tips for Speedier [Navigation of Superadmin](tips-for-speedier-navigation-of-superadmin.md)
 
@@ -42,4 +42,3 @@ It can be very slow to load the Dashboard page in Superadmin, which lets you see
 #### Adding Yourself as a Manager of an Enterprise
 
 Usually we investigate Customer Enquiries while logged in as Superadmin, however there are occasions when it is helpful to see the Dashboard as a customer would see it. For more information about this, see [Add Yourself as a Manager of an Enterprise](add-yourself-as-a-manager-of-an-enterprise.md)
-

@@ -22,9 +22,9 @@ You can also click on this link to sign up to Gitbooks and automatically be adde
 
 The OFN Organisation on Gitbooks has a number of documents that are organised in language based ‘Spaces’ that are visible when you log in. The OFN User Guide Master document is in English. As well as this document, in the English language space, you will also see the following:
 
-* OFN Super-admin Guide \(this document - proposed to be renamed as OFN Instance Managers Handbook\)
-* OFN Handbook \(Processes, Governance, Roles\)
-* OFN Testing Handbook \(Software Testing\)
+* OFN Super-admin Guide (this document - proposed to be renamed as OFN Instance Managers Handbook)
+* OFN Handbook (Processes, Governance, Roles)
+* OFN Testing Handbook (Software Testing)
 
 Other instances use the OFN User Guide Master in English as the basis for making updates in their own language. All of the other language guides are visible here in their own Language space. Changes to the OFN User Guide are made first to the English Language Master. Owners of the other language guides then translate the updates into their language version of the document.
 
@@ -40,19 +40,17 @@ If a section of the User Guide requires an update, you can create a draft in Git
 
 **New features and software updates**
 
-If the OFN software has been updated, or a new feature has been launched, the User Guide will need an update. The User Guide updating team will discuss this on Global Slack and plan a content update. \(This process is currently under discussion\).
+If the OFN software has been updated, or a new feature has been launched, the User Guide will need an update. The User Guide updating team will discuss this on Global Slack and plan a content update. (This process is currently under discussion).
 
 ## How to **Edit the User Guide Master**
 
-Current Process \(interim\)
+Current Process (interim)
 
-1. Leave a message in the Global Slack user-guide channel if you'd like a change to be made and **one of the core team will make the update for you**
-2. If you make the update yourself, please **merge the edit at the time of making the change** so we don't have multiple versions and lose changes \(see below for how to make changes\).
-3. If you make an update, please **notify the whole channel here** with a link to the page you changed and information about what you changed and why, so that **the owners of other language versions can review and make these alterations too.**
+1. Leave a message in the Global Slack user-guide channel if you'd like a change to be made and** one of the core team will make the update for you**
+2. If you make the update yourself, please** merge the edit at the time of making the change** so we don't have multiple versions and lose changes (see below for how to make changes).
+3. If you make an update, please **notify the whole channel here** with a link to the page you changed and information about what you changed and why, so that** the owners of other language versions can review and make these alterations too.**
 
 You can make changes to the User Guide Master simply by starting to edit the document in Gitbooks. A draft will be created as soon as you make a change. To see your draft, click on Edits in the left hand navigation. A draft can be saved and returned to later to complete. Anyone in the OFN organisation can log in, see and contribute to your saved draft. This is helpful if you're seeking feedback on a draft before publishing. To publish your saved draft, select Merge.
 
 NOTE: there is no warning or confirmation when you click MERGE. Once you hit ‘Merge’ your changes will be published immediately!
-
-
 

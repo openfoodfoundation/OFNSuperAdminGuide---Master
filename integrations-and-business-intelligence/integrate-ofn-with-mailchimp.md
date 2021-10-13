@@ -9,7 +9,7 @@ Today you can use Zapier to establish this kind of integrations. We want to impr
 
 ## Requirements
 
-* Premium Zapier account \(ask on the Zappiness slack channel for more details\)
+* Premium Zapier account (ask on the Zappiness slack channel for more details)
 * PostgresDB connection in Zapier
 
 ## Feed any new customer of hub into the Mailchimp audience of that hub
@@ -20,25 +20,25 @@ Today you can use Zapier to establish this kind of integrations. We want to impr
 
 * Select as a trigger : PostgreSQL
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-01-37.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-01-37.png>)
 
 You want the trigger to be : when an order is made by a new customer in the hub's shop. So for that Zapier will need to read in the OFN database, which is a PostgreSQL type database.
 
-* Then you will choose "new row" as you want to check when there is a new order \(a new row/line in the database in the orders table\) if the customer id is new or not.
+* Then you will choose "new row" as you want to check when there is a new order (a new row/line in the database in the orders table) if the customer id is new or not.
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-02-26.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-02-26.png>)
 
 * Select the PostgreSQL database you have previously connected
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-04-01.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-04-01.png>)
 
 * Then enter the query that will look for the info you want in the database. You can ask on Zappiness Slack channel if you don't know how to do that !
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-05-38.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-05-38.png>)
 
 In this case the query is :
 
-```text
+```
 select spree_addresses.firstname, spree_orders.email from spree_addresses, spree_orders where spree_orders.bill_address_id = spree_addresses.id  and state = 'complete' and distributor_id = xxx
 ```
 
@@ -48,19 +48,18 @@ What you want now is to describe what you want to happen when the trigger happen
 
 * Choose Mailchimp as the app to use in the action section
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-25-07.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-25-07.png>)
 
 * Then choose "add/update subscriber
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-23-47.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-23-47.png>)
 
-* You are then asked to connect an account, fill in the username and password for the Mailchimp account you want to connect. The user needs to have requested you to make that integration and provide the credentials by any secure media \(phone recommended\).
+* You are then asked to connect an account, fill in the username and password for the Mailchimp account you want to connect. The user needs to have requested you to make that integration and provide the credentials by any secure media (phone recommended).
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-26-53.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-26-53.png>)
 
 * You then have some options to setup on what you want to happen on Mailchimp side. You will select the Mailchimp audience that you want the new customer to be added to. 
 
-![](../.gitbook/assets/capture-du-2019-05-28-18-34-42%20%281%29.png)
+![](<../.gitbook/assets/Capture du 2019-05-28 18-34-42 (1).png>)
 
-\[to be completed\]
-
+\[to be completed]

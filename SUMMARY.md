@@ -46,6 +46,7 @@
   * [Installing Matomo on your wordpress](tracking-data-using-matomo/installing-matomo-on-your-wordpress.md)
   * [Creating a Matomo funnel to track a specific user journey on the platform](tracking-data-using-matomo/creating-a-matomo-funnel-to-track-a-specific-user-journey-on-the-platform.md)
   * [Create a segment to analyze behaviour in Admin](tracking-data-using-matomo/create-a-segment-to-analyze-behaviour-in-admin.md)
+  * [How to set up events for tracking user behaviour - Mapping Matomo and code](tracking-data-using-matomo/how-to-set-up-events-for-tracking-user-behaviour-mapping-matomo-and-code.md)
 * [Australian Instance Management](australian-instance-management/README.md)
   * [Recruitment](australian-instance-management/recruitment.md)
   * [Onboarding](australian-instance-management/onboarding.md)
@@ -61,7 +62,7 @@
   * [Tips for Speedier Navigation of Superadmin](customer-support-resources/using-superadmin/tips-for-speedier-navigation-of-superadmin.md)
   * [Tips for Accessing an Enterprise Dashboard](customer-support-resources/using-superadmin/tips-for-accessing-an-enterprise-dashboard.md)
   * [Add Yourself as a Manager of an Enterprise](customer-support-resources/using-superadmin/add-yourself-as-a-manager-of-an-enterprise.md)
-* [Common Investigations \(FAQs\)](customer-support-resources/common-investigations-faqs.md)
+* [Common Investigations (FAQs)](customer-support-resources/common-investigations-faqs.md)
 * [Shared Resources](customer-support-resources/shared-resources/README.md)
   * [How To Videos](customer-support-resources/shared-resources/how-to-videos.md)
   * [Email Templates](customer-support-resources/shared-resources/email-templates/README.md)
@@ -69,4 +70,3 @@
   * [Farmers Market Resources](customer-support-resources/shared-resources/farmers-market-resources.md)
 * [Updating the User Guide](customer-support-resources/updating-the-user-guide.md)
 * [Contribute to this document](customer-support-resources/contribute-to-this-document.md)
-

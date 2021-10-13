@@ -8,7 +8,7 @@ This page shows a list of countries. You don't need to play with any settings he
 
 ## States
 
-If you manage states for multiple countries, because your instance is used for various countries \(producers from another country, etc.\), you need to do that one by one for each organisation. You can also ask a sys admin to do some general import for you.
+If you manage states for multiple countries, because your instance is used for various countries (producers from another country, etc.), you need to do that one by one for each organisation. You can also ask a sys admin to do some general import for you.
 
 To do it manually, select your country. Setup states and their abbreviations. You might need to find the equivalent of "states" in your local context. This will be required from users when setting up an enterprise, or for customer when cheking out. So it needs to make sense for them. In France for instance, the local instance has chosen to list the "départements" and not "régions" which would have been the litteral translation, but département was more meaningful for local people.
 
@@ -16,9 +16,8 @@ Choose also carefully the abbreviation as they will display in the registration 
 
 The Australian states setup is shown below.
 
-![](../.gitbook/assets/ausstatest.png)
+![](../.gitbook/assets/Ausstatest.png)
 
 In france :
 
-![](../.gitbook/assets/capture-du-2019-05-27-19-38-37.png)
-
+![](<../.gitbook/assets/Capture du 2019-05-27 19-38-37.png>)

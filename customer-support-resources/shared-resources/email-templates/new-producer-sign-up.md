@@ -32,25 +32,23 @@ Here are some handy hints to pages in the OFN User Guide that might help you get
 
 [User Guide - How to Access the Dashboard](https://guide.openfoodnetwork.org/basic-features/dashboard)
 
-  
-**Sell through a farmers market or hub:**The Open Food Network enables you to sell your products through someone else's shopfront - like the farmers market that you're part of or a food hub. Follow the instructions here to [start selling through another shopfront](https://guide.openfoodnetwork.org/quick-start-guides/profile-only-quick-setup-guide) today or check out this video: [How to Add Products on OFN](https://youtu.be/Ha5_NxRt_pA)   
+\
+**Sell through a farmers market or hub:**The Open Food Network enables you to sell your products through someone else's shopfront - like the farmers market that you're part of or a food hub. Follow the instructions here to [start selling through another shopfront](https://guide.openfoodnetwork.org/quick-start-guides/profile-only-quick-setup-guide) today or check out this video: [How to Add Products on OFN](https://youtu.be/Ha5\_NxRt_pA) \
 
 
 **ACCESSING SUPPORT**
 
 **Self Service**
 
-Check out the full OFN User Guide [https://guide.openfoodnetwork.org/](https://guide.openfoodnetwork.org/) which has heaps of information about the full range of functionality the Open Food Network offers.  
-  
-**Want to chat to a person?**  
-We have support staff available Monday - Friday, 9am to 5pm. You can email us at [hello@openfoodnetwork.org.au](mailto:hello@openfoodnetwork.org.au) and someone will respond as quickly as possible \(normally within a few hours\).  
+Check out the full OFN User Guide [https://guide.openfoodnetwork.org/](https://guide.openfoodnetwork.org) which has heaps of information about the full range of functionality the Open Food Network offers.\
+\
+**Want to chat to a person?**\
+We have support staff available Monday - Friday, 9am to 5pm. You can email us at [hello@openfoodnetwork.org.au](mailto:hello@openfoodnetwork.org.au) and someone will respond as quickly as possible (normally within a few hours).\
 
 
-If you're having trouble with any part of the set up process, please drop us a line - we're here to help!  
+If you're having trouble with any part of the set up process, please drop us a line - we're here to help!\
 
 
-Warm regards,   
+Warm regards, \
 The Open Food Network Team 
-
-
 

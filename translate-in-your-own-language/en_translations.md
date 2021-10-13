@@ -13,4 +13,3 @@ Here are some things that English language instances commonly use translations t
 * Improving clumsy / confusing wording in the code e.g.
   * Product and Variant details - [issue](https://github.com/openfoodfoundation/openfoodnetwork/issues/4788)
   * Product property inheritance - [issue](https://github.com/openfoodfoundation/openfoodnetwork/issues/4466) 
-

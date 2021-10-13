@@ -6,10 +6,9 @@ This integration will enable OFN Super Admins to create integrations with their 
 
 ## Requirements
 
-* Premium Zapier account \(ask on the Zappiness slack channel for more details\)
+* Premium Zapier account (ask on the Zappiness slack channel for more details)
 * PostgresDB connection in Zapier
 
 ## Instructions
 
 [Click here for full instructions](https://docs.google.com/document/d/1i-bN3RBLcNruKMoiA4rk67G9kIT_dK0a5EXNgNfPN6c/edit)
-

@@ -4,7 +4,7 @@
 
 **Site name:** e.g. Open Food Network MyCountry
 
-**Default SEO Title:** we don't use until now...
+**Default SEO Title: **we don't use until now...
 
 **Default meta keywords:** e.g. OFN open food
 
@@ -18,15 +18,15 @@ Then scroll down to see further settings. Emulate tick boxes as in image below o
 
 Copy the settings pictured below
 
-![](../.gitbook/assets/securitysettings.png)
+![](../.gitbook/assets/Securitysettings.png)
 
 ## **Currency Settings**
 
-![](../.gitbook/assets/capture-du-2019-05-27-15-59-58.png)
+![](<../.gitbook/assets/Capture du 2019-05-27 15-59-58.png>)
 
-**Display currency:** Select if you want for example 'AUD' \(Australian Dollars\) to show in the shop. Deselect if you just want $ to show in the shop.
+**Display currency:** Select if you want for example 'AUD' (Australian Dollars) to show in the shop. Deselect if you just want $ to show in the shop.
 
-**Hide cents:** Select if you want to hide the cents component in shops
+**Hide cents: **Select if you want to hide the cents component in shops
 
 **Choose currency:** Select the currency of your instance
 
@@ -38,19 +38,19 @@ Please note, if you are using Euro, you must select the 'Number localisation set
 
 ## Number localisation settings 
 
-![](../.gitbook/assets/screenshot-from-2018-04-02-11-22-11.png)
+![](<../.gitbook/assets/Screenshot from 2018-04-02 11-22-11.png>)
 
 Each country has its own convention on how numbers are displayed and use various separators for thousands and decimals.
 
 To make it easier we have implemented the following internationalization logic:
 
-* Whatever the way the number is filled in, it is interpreted, translated and displayed in the default Spree format which is "No thousands separator + a dot \(.\) for decimal separators."
-* So that means that if you enter "3,50" as a price that will be translated and displayed "3.50", "3" will become "3.00", "3.500" will become "3500.00" and  "3,500" will become "3500.00" \(we consider that a price can't have 3 decimals and interpret that as , or . being the thousands separator\).
+* Whatever the way the number is filled in, it is interpreted, translated and displayed in the default Spree format which is "No thousands separator + a dot (.) for decimal separators."
+* So that means that if you enter "3,50" as a price that will be translated and displayed "3.50", "3" will become "3.00", "3.500" will become "3500.00" and  "3,500" will become "3500.00" (we consider that a price can't have 3 decimals and interpret that as , or . being the thousands separator).
 * So this logic is supposed to cover any case of numbers format internationally. If you think your case doesn't fit in while testing please reach out.
 
 ## Legal settings
 
-![](../.gitbook/assets/legal-settings.png)
+![](<../.gitbook/assets/legal settings.png>)
 
 ### **Enterprises must accept Terms of Service**
 
@@ -60,7 +60,7 @@ The Terms of Service file can be uploaded on the page [Terms of Service](terms-o
 
 Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
 
-![](../.gitbook/assets/acceptterms.png)
+![](../.gitbook/assets/Acceptterms.png)
 
 ### Shoppers must accept Terms of Service
 
@@ -70,7 +70,7 @@ The Terms of Service file can be uploaded on the page [Terms of Service](terms-o
 
 Note regardless of if this setting is on or off, the Terms of Service link is always included in the footer of each instance’s homepage, and in the footer of Welcome to OFN emails sent to new enterprises.
 
-![](../.gitbook/assets/place-order.png)
+![](<../.gitbook/assets/place order.PNG>)
 
 ### **Cookies and analytics tracking**
 
@@ -80,19 +80,18 @@ The only cookie that is not compulsory for the site to work is the navigation tr
 
 Currently the analytics tool you can use is Matomo:
 
-* **Matomo.** This is the tool recognized as GDPR friendly. It respect the privacy of users and has been approved by CNIL in France for instance \(which protect data privacy\). If you are in a country within GDPR zone, we highly recommend you to use Matomo for your analytics tracking tool. **If you select the corresponding checkbox, the cookie policy will display the section concerning the cookies used by Matomo, and will enable users to disable these cookies if they want.**
+* **Matomo.** This is the tool recognized as GDPR friendly. It respect the privacy of users and has been approved by CNIL in France for instance (which protect data privacy). If you are in a country within GDPR zone, we highly recommend you to use Matomo for your analytics tracking tool. **If you select the corresponding checkbox, the cookie policy will display the section concerning the cookies used by Matomo, and will enable users to disable these cookies if they want.**
 
 ### **Privacy policy**
 
-If you are within the GDPR zone, you are also required to write and share with your visitors your privacy policy. It includes the cookies policy \(so you can refer to the cookies policy link within your privacy policy document\), but it goes much further. Various EU instances are working on their privacy policy at the moment, we will soon be able to share some examples !
+If you are within the GDPR zone, you are also required to write and share with your visitors your privacy policy. It includes the cookies policy (so you can refer to the cookies policy link within your privacy policy document), but it goes much further. Various EU instances are working on their privacy policy at the moment, we will soon be able to share some examples !
 
 You have then a field here where you can put the link to a PDF version of your privacy policy document. It will display in the footer, near the cookies policy.
 
 ## **Embedded Shopfront Settings**
 
-![](../.gitbook/assets/embed.png)
+![](../.gitbook/assets/Embed.png)
 
-Each instance has the choice of enabling or disabling embedded shopfronts \(enable users to embed their shopfront in an external website, like a wordpress for instance\). You can turn the feature on and off.
+Each instance has the choice of enabling or disabling embedded shopfronts (enable users to embed their shopfront in an external website, like a wordpress for instance). You can turn the feature on and off.
 
 If your instance is enabling embedded shopfronts, you’ll need to give each user who wants to embed their shop permission to embed it in their external website. To do this you need to enter their external website URL in the ‘external domain whitelist’. Write the URL without www. or http, as shown below. Separate each by a space. Only once the external URL is on this list will the user be able to embed their shop on that website.
-

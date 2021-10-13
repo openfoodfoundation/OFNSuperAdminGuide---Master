@@ -1,6 +1,6 @@
 # Taxes and Tax Zones
 
-## Taxes and Tax Zones <a id="docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67"></a>
+## Taxes and Tax Zones <a href="docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67" id="docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67"></a>
 
 ‌There are four elements to setting up taxes:
 
@@ -9,7 +9,7 @@
 3. Tax Categories
 4. Tax Settings
 
-The instructions below have been derived from multiple tax related threads \([748](https://community.openfoodnetwork.org/t/co-budget-and-organization-around-the-tax-overhaul-dev/748),[ 64](https://community.openfoodnetwork.org/t/how-does-tax-work-vat-and-gst/64),[ 487](https://community.openfoodnetwork.org/t/outstanding-tax-requirements-jan-2016/487)\) on discourse and the Spree[ tax](http://guides.spreecommerce.org/developer/taxation.html) and[ zones](http://guides.spreecommerce.org/user/zones.html) guides.
+The instructions below have been derived from multiple tax related threads ([748](https://community.openfoodnetwork.org/t/co-budget-and-organization-around-the-tax-overhaul-dev/748),[ 64](https://community.openfoodnetwork.org/t/how-does-tax-work-vat-and-gst/64),[ 487](https://community.openfoodnetwork.org/t/outstanding-tax-requirements-jan-2016/487)) on discourse and the Spree[ tax](http://guides.spreecommerce.org/developer/taxation.html) and[ zones](http://guides.spreecommerce.org/user/zones.html) guides.
 
 ## Zones
 
@@ -23,15 +23,15 @@ What do Zones do? When the customer gets to the final stage of checkout and ente
 
 **Description:** Give a description E.g. California or Australia
 
-**Default Tax Zone:** By selecting this option, it means that any tax rates applied to this zone will display by default in the shopfront. This will become clearer when you read about Tax Rates and Tax Categories below. For example, if you have a Country wide tax and a variable State tax system, you may want the Country tax to show by default \(as it’s charged to everyone\) but the State tax will only be applied once the customer provides their address and the relevant state tax is applied. If you were to have the California tax show as default, it would confuse customers from others states when that tax was replaced with their state tax, so choose the default tax accordingly.
+**Default Tax Zone:** By selecting this option, it means that any tax rates applied to this zone will display by default in the shopfront. This will become clearer when you read about Tax Rates and Tax Categories below. For example, if you have a Country wide tax and a variable State tax system, you may want the Country tax to show by default (as it’s charged to everyone) but the State tax will only be applied once the customer provides their address and the relevant state tax is applied. If you were to have the California tax show as default, it would confuse customers from others states when that tax was replaced with their state tax, so choose the default tax accordingly.
 
 **Type:** Country based or State based. Zones are defined at two levels; country and state. You cannot setup zones for postcodes/zip codes, states are the finest zone available. Select if you’re setting up a country zone, or a state zone.
 
-**Country/States:** Now select the country\(ies\)/state\(s\) that fall into this zone. For Australia, we just have a single country in the Australia zone. For Europe, you may have multiple countries in the one zone E.g. EU.
+**Country/States:** Now select the country(ies)/state(s) that fall into this zone. For Australia, we just have a single country in the Australia zone. For Europe, you may have multiple countries in the one zone E.g. EU.
 
 ### How Zones interact with Shipping Methods
 
-Every shipping method is configured to apply to a ‘zone’. \(see below\)
+Every shipping method is configured to apply to a ‘zone’. (see below)
 
 ![](../.gitbook/assets/zone2.png)
 
@@ -41,15 +41,15 @@ If a shipping method is set to the Country level zone, the shipping method will 
 
 The system will apply taxes according to which Zone the customer is located in. Every Tax Rate is set to apply to a zone, as will be described below.
 
-**National tax rates** - taxes applied at the same rate across a country will be set to a country based zone. **State taxes** - taxes applied at a state level will be set to a state based zone.
+**National tax rates **- taxes applied at the same rate across a country will be set to a country based zone. **State taxes** - taxes applied at a state level will be set to a state based zone.
 
-Note: If the shipping method is a ‘collection’ method, the tax is based on the location of the shop. If the shipping method is a ‘delivery’ method, the tax will show according to the location of the customer \(their shipping address\).
+Note: If the shipping method is a ‘collection’ method, the tax is based on the location of the shop. If the shipping method is a ‘delivery’ method, the tax will show according to the location of the customer (their shipping address).
 
 ## Tax Rates
 
 Tax rates are where you setup the % tax rates that are relevant in your instance. Below is an example tax rate, it is Australia’s nationwide tax.
 
-![](https://lh3.googleusercontent.com/7DJA2_TRoN8dLSpCTsO_Mwq34p4NzqukCzHpEB3L-4AVheA1saTnYg2Jl_kWhKnTwQNDpcGmrVJGpdEuAT-8buiLYRliom5XmjwE5GY-0JoKcTZWPe4pjM16RlGyictEylkQNyb3)
+![](https://lh3.googleusercontent.com/7DJA2\_TRoN8dLSpCTsO_Mwq34p4NzqukCzHpEB3L-4AVheA1saTnYg2Jl_kWhKnTwQNDpcGmrVJGpdEuAT-8buiLYRliom5XmjwE5GY-0JoKcTZWPe4pjM16RlGyictEylkQNyb3)
 
 **Name:** What is the name of the tax?
 
@@ -57,13 +57,13 @@ Tax rates are where you setup the % tax rates that are relevant in your instance
 
 **Included in Price:** If product prices should display to the enterprise manager and to the customer as the ‘tax inclusive price’, click this tick box. If customers and enterprise managers prefer to see the ‘tax exclusive price’ and then see the tax added on at checkout, deselect this option. Note: tax inclusivity/exclusivity is defined at the instance level. Users can’t choose individually whether their shops display tax inclusive or exclusive prices.
 
-**Zone:** Each tax rate has a defined zone \(see Zone section above\). This dictates which customers the tax applies to. If it’s a national tax, it will apply to all customers in the country based zone. If it’s a state tax, it will only apply to customers located in that state. Note, you’ll need to have your zones setup before you can setup your tax rates.
+**Zone:** Each tax rate has a defined zone (see Zone section above). This dictates which customers the tax applies to. If it’s a national tax, it will apply to all customers in the country based zone. If it’s a state tax, it will only apply to customers located in that state. Note, you’ll need to have your zones setup before you can setup your tax rates.
 
-**Tax Category:** Each tax rate sits in a defined Tax Category \(see Tax Category section below\). The Tax Category is the label seen by the enterprise user when they apply tax rates to products. If a Tax Rate isn’t in a category it can’t be applied.
+**Tax Category:** Each tax rate sits in a defined Tax Category (see Tax Category section below). The Tax Category is the label seen by the enterprise user when they apply tax rates to products. If a Tax Rate isn’t in a category it can’t be applied.
 
 **Show rate in label:** If you say yes, the rate will be displayed in the label you gave to the rate.
 
-**Calculator:** Leave this as Default Tax
+**Calculator: **Leave this as Default Tax
 
 ## Tax Categories
 
@@ -85,7 +85,7 @@ There is also the option of setting a Tax Category as default. If your instance 
 
 ‌For some reason the tax applied on Shipping fees is set at the instance level, in Tax Settings.
 
-![](../.gitbook/assets/capture-du-2019-05-27-15-13-25.png)
+![](<../.gitbook/assets/Capture du 2019-05-27 15-13-25.png>)
 
 ‌You can select if the shipping fee is displayed inclusive or exclusive of tax. And the rate is set as a decimal 10%= 0.10
 
@@ -95,11 +95,11 @@ Below is an example of the Settings for the German instance.
 
 Create new zone Germany and make it default tax zone
 
-![](https://lh3.googleusercontent.com/0KGxOh9wica_2dOTLu0fuc_v9EOQPH3bYGQ6jYCKuXTjLV50_7E6r_-y7nXvH8_4465aK_PKMe2pxvSUNydrsn385HM3Y-2YpMk95wT4kk7VofyBoyliSLhMwE6MryLehSiA9TLa)
+![](https://lh3.googleusercontent.com/0KGxOh9wica\_2dOTLu0fuc_v9EOQPH3bYGQ6jYCKuXTjLV50\_7E6r\_-y7nXvH8\_4465aK_PKMe2pxvSUNydrsn385HM3Y-2YpMk95wT4kk7VofyBoyliSLhMwE6MryLehSiA9TLa)
 
 Create category for VAT, also make default.
 
-![](https://lh4.googleusercontent.com/RkdCW7VVXxIBYiOMno8BnwvX947fhHp5lN639pTgDnP8oV5yz8uXN2vV4xn4kWJBBFlnNBr5v1cmVCPhFBLopzBTCB53_gSsQ39rMv2e9QtJgRlVKBDJJ0BhTwV6U69Dol89agRZ)
+![](https://lh4.googleusercontent.com/RkdCW7VVXxIBYiOMno8BnwvX947fhHp5lN639pTgDnP8oV5yz8uXN2vV4xn4kWJBBFlnNBr5v1cmVCPhFBLopzBTCB53\_gSsQ39rMv2e9QtJgRlVKBDJJ0BhTwV6U69Dol89agRZ)
 
 Create two new tax rates for general and reduced German VAT rates as per[ http://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/The-tax-system/value-added-tax-vat.html](http://www.gtai.de/GTAI/Navigation/EN/Invest/Investment-guide/The-tax-system/value-added-tax-vat.html)
 
@@ -108,4 +108,3 @@ Create two new tax rates for general and reduced German VAT rates as per[ http:/
 ![](https://lh4.googleusercontent.com/R1m1mRoy1AUy21WHckrDoQUNVMiafm0cCUCYuejHfKkfuo4GbA6EolC-ckwiJNbLOvmpZDfcNBWmoJ0HoV0k-xhdgiaPIHex6h6T7XPRxv-feJBkOi6uLRgyZjuro3R2j9yWRP03)
 
 Tax Settings - To be updated.
-
