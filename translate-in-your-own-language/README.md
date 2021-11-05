@@ -53,7 +53,7 @@ You can then open the Unreviewed panel and commence checking / correcting string
 
 ![](../.gitbook/assets/transifex2.png)
 
-### Live demo
+## Live demo
 
 You can find a live demonstration of transifex on this recording dated November 2021:
 
