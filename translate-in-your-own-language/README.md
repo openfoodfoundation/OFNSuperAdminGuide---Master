@@ -10,7 +10,7 @@ So the good practice we recommend is : when a new release is about to be made, d
 
 ### Some strings that you need to be careful about
 
-* For the key **"language_name"** be careful, the source string is "English" but you have to translate to your own language name, like "Deutch", "Français", "Italiano", etc. This string displays in the dropdown multilingual menu on all OFN pages
+* For the key **"language\_name"** be careful, the source string is "English" but you have to translate to your own language name, like "Deutch", "Français", "Italiano", etc. This string displays in the dropdown multilingual menu on all OFN pages
 
 ![](../.gitbook/assets/Multilingual.png)
 
@@ -20,7 +20,7 @@ So the good practice we recommend is : when a new release is about to be made, d
 
 ## Single language translations
 
-If your OFN instance only offers one language for visitors, then you don't have to activate multilingual on your instance. You just have to translate and the developers maintaining your instance will need to make sure they use the good localization file when deploying. Everything is explained in the OFN wiki [here](https://github.com/openfoodfoundation/ofn-install/wiki/Configuration#add-group_vars).
+If your OFN instance only offers one language for visitors, then you don't have to activate multilingual on your instance. You just have to translate and the developers maintaining your instance will need to make sure they use the good localization file when deploying. Everything is explained in the OFN wiki [here](https://github.com/openfoodfoundation/ofn-install/wiki/Configuration#add-group\_vars).
 
 ## Multi-lingual instance
 
@@ -53,3 +53,10 @@ You can then open the Unreviewed panel and commence checking / correcting string
 
 ![](../.gitbook/assets/transifex2.png)
 
+### Live demo
+
+You can find a live demonstration of transifex on this recording dated November 2021:
+
+[The recording](https://drive.google.com/file/d/1MgJPTD1hKui5rw1iAL0OGUAV3sUXL83J/view?usp=sharing)
+
+[The chat](https://drive.google.com/file/d/1SSsDcMSQq2\_V6aZWZM2TzTToz9mi3Vxr/view?usp=sharing)
