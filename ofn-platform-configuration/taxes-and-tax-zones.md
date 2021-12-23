@@ -1,6 +1,6 @@
 # Taxes and Tax Zones
 
-## Taxes and Tax Zones <a href="#docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67" id="docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67"></a>
+## Taxes and Tax Zones <a href="docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67" id="docs-internal-guid-53908db8-7fff-54f4-0d58-17385f7aba67"></a>
 
 ‌There are four elements to setting up taxes:
 
@@ -41,7 +41,7 @@ If a shipping method is set to the Country level zone, the shipping method will 
 
 The system will apply taxes according to which Zone the customer is located in. Every Tax Rate is set to apply to a zone, as will be described below.
 
-**National tax rates** - taxes applied at the same rate across a country will be set to a country based zone. **State taxes** - taxes applied at a state level will be set to a state based zone.
+**National tax rates **- taxes applied at the same rate across a country will be set to a country based zone. **State taxes** - taxes applied at a state level will be set to a state based zone.
 
 Note: If the shipping method is a ‘collection’ method, the tax is based on the location of the shop. If the shipping method is a ‘delivery’ method, the tax will show according to the location of the customer (their shipping address).
 
@@ -49,7 +49,7 @@ Note: If the shipping method is a ‘collection’ method, the tax is based on t
 
 Tax rates are where you setup the % tax rates that are relevant in your instance. Below is an example tax rate, it is Australia’s nationwide tax.
 
-![](https://lh3.googleusercontent.com/7DJA2\_TRoN8dLSpCTsO\_Mwq34p4NzqukCzHpEB3L-4AVheA1saTnYg2Jl\_kWhKnTwQNDpcGmrVJGpdEuAT-8buiLYRliom5XmjwE5GY-0JoKcTZWPe4pjM16RlGyictEylkQNyb3)
+![](https://lh3.googleusercontent.com/7DJA2\_TRoN8dLSpCTsO_Mwq34p4NzqukCzHpEB3L-4AVheA1saTnYg2Jl_kWhKnTwQNDpcGmrVJGpdEuAT-8buiLYRliom5XmjwE5GY-0JoKcTZWPe4pjM16RlGyictEylkQNyb3)
 
 **Name:** What is the name of the tax?
 
@@ -63,7 +63,7 @@ Tax rates are where you setup the % tax rates that are relevant in your instance
 
 **Show rate in label:** If you say yes, the rate will be displayed in the label you gave to the rate.
 
-**Calculator:** Leave this as Default Tax
+**Calculator: **Leave this as Default Tax
 
 ## Tax Categories
 
@@ -79,7 +79,7 @@ Tax Categories are simply setup with a name and a description. Putting tax rates
 
 There is also the option of setting a Tax Category as default. If your instance has a Tax Category set as default, that Tax Category will be applied to all products where no other tax category is defined. So by default all products will carry this tax category. Otherwise products will be tax free by default.
 
-![](https://lh3.googleusercontent.com/BzFQcwQa2lqaJmjJihPDyhycYqlddBeXX\_eH3HAQ-WWZijPSVDlfhcf4Z9fpbnhsQ1YoTz-TH4PCXkYPC3zM2UWKnqHAMJEmfp4fvDUwLi3-rZtsKez2B8FBK7Gz3ZUJRmS\_asW9)
+![](https://lh3.googleusercontent.com/BzFQcwQa2lqaJmjJihPDyhycYqlddBeXX_eH3HAQ-WWZijPSVDlfhcf4Z9fpbnhsQ1YoTz-TH4PCXkYPC3zM2UWKnqHAMJEmfp4fvDUwLi3-rZtsKez2B8FBK7Gz3ZUJRmS_asW9)
 
 ## Tax Settings
 
@@ -95,7 +95,7 @@ Below is an example of the Settings for the German instance.
 
 Create new zone Germany and make it default tax zone
 
-![](https://lh3.googleusercontent.com/0KGxOh9wica\_2dOTLu0fuc\_v9EOQPH3bYGQ6jYCKuXTjLV50\_7E6r\_-y7nXvH8\_4465aK\_PKMe2pxvSUNydrsn385HM3Y-2YpMk95wT4kk7VofyBoyliSLhMwE6MryLehSiA9TLa)
+![](https://lh3.googleusercontent.com/0KGxOh9wica\_2dOTLu0fuc_v9EOQPH3bYGQ6jYCKuXTjLV50\_7E6r\_-y7nXvH8\_4465aK_PKMe2pxvSUNydrsn385HM3Y-2YpMk95wT4kk7VofyBoyliSLhMwE6MryLehSiA9TLa)
 
 Create category for VAT, also make default.
 

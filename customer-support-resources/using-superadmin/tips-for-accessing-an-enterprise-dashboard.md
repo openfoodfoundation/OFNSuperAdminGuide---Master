@@ -14,7 +14,7 @@ Log in as a Superadmin and search for the Enterprise profile:
 4. Click on the arrow to the right of the listing
 5. Review the relevant settings in the **Dashboard** for that Enterprise
 
-**The Find Text Shortcut** &#x20;
+**The Find Text Shortcut  **
 
 1. Click on Administration in Settings
 2. Don’t scroll down - type "Command F" (shortcut for Find)

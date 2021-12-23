@@ -46,9 +46,9 @@ If the OFN software has been updated, or a new feature has been launched, the Us
 
 Current Process (interim)
 
-1. Leave a message in the Global Slack user-guide channel if you'd like a change to be made and **one of the core team will make the update for you**
-2. If you make the update yourself, please **merge the edit at the time of making the change** so we don't have multiple versions and lose changes (see below for how to make changes).
-3. If you make an update, please **notify the whole channel here** with a link to the page you changed and information about what you changed and why, so that **the owners of other language versions can review and make these alterations too.**
+1. Leave a message in the Global Slack user-guide channel if you'd like a change to be made and** one of the core team will make the update for you**
+2. If you make the update yourself, please** merge the edit at the time of making the change** so we don't have multiple versions and lose changes (see below for how to make changes).
+3. If you make an update, please **notify the whole channel here** with a link to the page you changed and information about what you changed and why, so that** the owners of other language versions can review and make these alterations too.**
 
 You can make changes to the User Guide Master simply by starting to edit the document in Gitbooks. A draft will be created as soon as you make a change. To see your draft, click on Edits in the left hand navigation. A draft can be saved and returned to later to complete. Anyone in the OFN organisation can log in, see and contribute to your saved draft. This is helpful if you're seeking feedback on a draft before publishing. To publish your saved draft, select Merge.
 

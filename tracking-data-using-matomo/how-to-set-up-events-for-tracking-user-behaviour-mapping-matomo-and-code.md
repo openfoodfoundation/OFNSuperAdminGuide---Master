@@ -2,11 +2,11 @@
 
 As product managers / instance managers we would like to get a detailed understanding of how users are interacting with the product and more specifically with certain features.
 
-Aside from tracking visits on specific pages, Matomo allows us also to track clickable elements (buttons, links) as well as errors occurring to understand how users are using the new checkout process and detect possible flaws.
+Aside from tracking visits on specific pages, Matomo allows us also to track clickable elements (buttons, links) as well as errors occurring to understand how users are using the features and detect possible flaws in UX.
 
-Setting up events can be tricky, as defining an event on an element (like a button or an input field) can be **dependent on how it has been coded,** which differs across the product due to the lack of a styleguide (which is in progress :)).
+Setting up events can be tricky though, as defining an event on an element (like a button or an input field) can be **dependent on how it has been coded,** which differs across the product due to the lack of a styleguide (which is in progress :)).
 
-Using the example of the implementing analytics for the new checkout process, this article explains how we are working on a resuable methodology for Matomo.
+Using the example of the implementing analytics for the new checkout process, this article explains how we are working to build a resuable methodology for Matomo.
 
 #### **1. Matomo Setup**&#x20;
 

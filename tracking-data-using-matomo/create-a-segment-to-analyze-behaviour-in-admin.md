@@ -13,7 +13,7 @@ We **cannot** (yet) separate
 
 (For this the Tag Manager Data Layer needs to be implemented, to differentiate between users)
 
-We **can track Admin user behavior though when they visit the /admin pages**, for example **analyzing**&#x20;
+We **can track Admin user behavior though when they visit the /admin pages**, for example **analyzing** 
 
 * which devices are used
 * which pages are visited
@@ -31,7 +31,7 @@ We **can track Admin user behavior though when they visit the /admin pages**, fo
 
 ![](<../.gitbook/assets/image (11).png>)
 
-4\. Select Category (per default it is Acquisition Date) **Action > Page URL** from Dropdown
+4\. Select Category (per default it is Acquisition Date) **Action > Page URL **from Dropdown
 
 5\. Select **“Contains”**
 
@@ -43,9 +43,9 @@ It may take a few hours until data is available for the segment, so if you check
 
 ### Use Case 1: Track Device Usage
 
-1\.  Go to your Dashboard&#x20;
+1\.  Go to your Dashboard 
 
-2\. Select **Visitors > Devices** from Sidebar Menu&#x20;
+2\. Select **Visitors > Devices** from Sidebar Menu 
 
 3\. Select **ADMIN** segment in top menu visits filter
 

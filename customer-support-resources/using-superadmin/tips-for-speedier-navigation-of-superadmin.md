@@ -8,7 +8,7 @@ If you regularly use the Superadmin login to investigate customer issues, you wi
 
 **Direct linking to URLs**
 
-Rather than navigating to specific destinations in the Dashboard, it can be helpful to know some of the more common URLs so you can copy and paste them directly into your browser, and edit the relevant component (in **bold** below). Below are the formats of some of these URLs:
+Rather than navigating to specific destinations in the Dashboard, it can be helpful to know some of the more common URLs so you can copy and paste them directly into your browser, and edit the relevant component (in **bold **below). Below are the formats of some of these URLs:
 
 Enterprise Admin https://openfoodnetwork.org.au/admin/enterprises/**\*\*fawknercommons\*\***/edit
 
