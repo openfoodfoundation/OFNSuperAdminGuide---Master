@@ -4,19 +4,19 @@ As product managers / instance managers we would like to get a detailed understa
 
 Aside from tracking visits on specific pages, Matomo allows us also to track clickable elements (buttons, links) as well as errors occurring to understand how users are using the new checkout process and detect possible flaws.
 
-Setting up events can be tricky, as defining an event on an element (like a button or an input field) can be **dependent on how it has been coded, **which differs across the product due to the lack of a styleguide (which is in progress :)).
+Setting up events can be tricky, as defining an event on an element (like a button or an input field) can be **dependent on how it has been coded,** which differs across the product due to the lack of a styleguide (which is in progress :)).
 
 Using the example of the implementing analytics for the new checkout process, this article explains how we are working on a resuable methodology for Matomo.
 
-#### **1. Matomo Setup **
+#### **1. Matomo Setup**&#x20;
 
 First, let´s have a look on how events are reported in Matomo. There are 3 hierarchies:
 
 * Events Category
-* Event Action 
+* Event Action&#x20;
 * Event Name
 
-For example under the category _alert_ we can differentiate between the event actions _success _and_ error. _
+For example under the category _alert_ we can differentiate between the event actions _success_ and _error._&#x20;
 
 ![](<../.gitbook/assets/image (14).png>)
 
@@ -30,7 +30,7 @@ In order to track these interactions, both a trigger and a tag need to be define
 
 A **tag** is a snippet of code which can be executed on your site, as soon as the condition of a connected **trigger** is met.
 
-To create an functioning trigger on an element it is important to know how the element has been defined in the code**. **Along the work of the new checkout process we started creating a wiki on which element to be tracked how. See more details in [this issue](https://app.zenhub.com/workspaces/dev-pipe-54b840c6a249c8781446d4b2/issues/openfoodfoundation/openfoodnetwork/8214).
+To create an functioning trigger on an element it is important to know how the element has been defined in the code**.** Along the work of the new checkout process we started creating a wiki on which element to be tracked how. See more details in [this issue](https://app.zenhub.com/workspaces/dev-pipe-54b840c6a249c8781446d4b2/issues/openfoodfoundation/openfoodnetwork/8214).
 
 
 
@@ -49,9 +49,9 @@ To create an functioning trigger on an element it is important to know how the e
 So for example, to track all button clicks along the checkout process, we define the trigger in the following way (under Matomo>Tag Manager>Trigger):
 
 * _Page Path contains checkout_
-* _Click Class contains button _
+* _Click Class contains button_&#x20;
 
- 
+&#x20;
 
 ![](<../.gitbook/assets/image (16).png>)
 

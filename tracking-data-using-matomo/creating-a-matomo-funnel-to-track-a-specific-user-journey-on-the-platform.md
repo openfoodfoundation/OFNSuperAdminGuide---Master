@@ -9,7 +9,7 @@ The Matomo Help pages can help you with any queries on how to set up funnels.
 Here is an example of a funnel set-up from Australia to measure how many people are progressing to actually purchasing food through a particular entry point (a group page).\
 (I've used 'inverted commas' to denote a button/option in Matomo)
 
-1. **Set a goal. **\
+1. **Set a goal.** \
    Go to your Matomo Dashboard\
    Choose 'Manage goals' from the left menu options\
    Click 'Add a New goal' at the bottom
@@ -38,6 +38,6 @@ Step 4 Order confirmation - 'Page title contains' Order Confirmation (they have 
 
 Then select 'Activate funnel' and it will add Step 5 Completed - 'Converts goal' for the funnel we've already set up (why it's important to get your end goal for the funnel right)
 
-You can then validate your funnel to make sure it's working properly. 
+You can then validate your funnel to make sure it's working properly.&#x20;
 
 You should see new data coming into your funnel reports pretty quickly. You can also 'Visit Log segmented by this funnel' to see additional info about how users are interacting through this funnel, e.g. are they coming direct or from somewhere like facebook, what other pages are they visiting in between entering the funnel and purchase (e.g. clicking around through lots of shops, being prompted to login, etc)

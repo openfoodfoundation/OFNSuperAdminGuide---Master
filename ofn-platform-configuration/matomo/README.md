@@ -10,7 +10,7 @@ As a superadmin, here is what you see in the configuration "Matomo Settings" tab
 
 ![](../../.gitbook/assets/matomo-config-screen.png)
 
-**Matomo URL: **Fill in the following URL [https://openfoodnetwork.innocraft.cloud/](https://openfoodnetwork.innocraft.cloud)   
+**Matomo URL:** Fill in the following URL [https://openfoodnetwork.innocraft.cloud/](https://openfoodnetwork.innocraft.cloud)  &#x20;
 
 {% hint style="info" %}
 **Do not delete the "/" at the end of the URL otherwise it's not working! The URL is the same for ALL instances**
@@ -20,9 +20,9 @@ As a superadmin, here is what you see in the configuration "Matomo Settings" tab
 
 ![](https://lh6.googleusercontent.com/mKWjaq9Z4Rr3UOPD3CTA2IQYt4KJWo4QcoloG1h5UOR4uCKUcLzhWeqjKTKTeEm7YO9D7d\_3VxA0IPA53aw4sj0ZQZvEmnvWxY-D0o68culnfurAmfgma7BqqyMGQjcfE0Zs-Qsd)
 
-If you don't see your instance in the list, you will have to [create a new Matomo site](setting-up-a-new-matomo-site.md). 
+If you don't see your instance in the list, you will have to [create a new Matomo site](setting-up-a-new-matomo-site.md).&#x20;
 
-**Matomo Tag Manager URL: **The tag manager allows you to set up events for very specific user interactions. Navigate to your tag manager via the main menu:
+**Matomo Tag Manager URL:** The tag manager allows you to set up events for very specific user interactions. Navigate to your tag manager via the main menu:
 
 ![](../../.gitbook/assets/matomo-nav.png)
 

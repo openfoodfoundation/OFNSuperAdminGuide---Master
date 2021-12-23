@@ -14,7 +14,7 @@ So the good practice we recommend is : when a new release is about to be made, d
 
 ![](../.gitbook/assets/Multilingual.png)
 
-* For the key** "menu\_"** those keys represent the menu titles and redirection pages when you clic on this menu. For some menu they will redirect to internal pages, like "shops", so the link will be "/shops". But others like "about" will redirect to external pages, like a wordpress website, so in that case you can put your url in the adequate translation entry.
+* For the key **"menu\_"** those keys represent the menu titles and redirection pages when you clic on this menu. For some menu they will redirect to internal pages, like "shops", so the link will be "/shops". But others like "about" will redirect to external pages, like a wordpress website, so in that case you can put your url in the adequate translation entry.
 
 ![](<../.gitbook/assets/Capture du 2018-10-08 10-42-48.png>)
 
@@ -45,7 +45,7 @@ To do the machine translation, go to 'Untranslated' Tab. In this case there are 
 
 ![](../.gitbook/assets/transifex1.png)
 
-## Review Translations <a href="review-translations" id="review-translations"></a>
+## Review Translations <a href="#review-translations" id="review-translations"></a>
 
 Once you have either manually or automatically done the first round of translations, they move into the Unreviewed panel. Strings that are in here ARE included in the live language file, but they are kept separately from the 'double-checked' translations. NB. If you use the machine translation above, all newly translated strings are in the Unreviewed panel
 

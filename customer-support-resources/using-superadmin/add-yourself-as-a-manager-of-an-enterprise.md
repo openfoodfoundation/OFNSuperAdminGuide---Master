@@ -2,7 +2,7 @@
 
 Usually we investigate Customer Enquiries while logged in as Superadmin, however there are occasions when it is helpful to see the Dashboard as a customer would see it. If you want to create screen grabs to guide a customer through a process, or to show them what you have done to fix a problem, it's better to log in as a Manager of the Enterprise in question. This can also be helpful because Superadmin can be unwieldy in some scenarios.
 
-When you need to log in as the Manager of an Enterprise, it's best to MOSTLY use an OFN Account created specifically for this purpose (eg. in Australia we use the Customer Support email address). 
+When you need to log in as the Manager of an Enterprise, it's best to MOSTLY use an OFN Account created specifically for this purpose (eg. in Australia we use the Customer Support email address).&#x20;
 
 There  may also be occasion to create a UNIQUE OFN Account that doesn't own any other Enterprises. The three investigation options are described below in more detail:
 
@@ -16,9 +16,9 @@ Be aware that if this account owns multiple enterprises, there will be some view
 
 #### 2.Create a Unique OFN Account to add as a Manager
 
-On rare occasions it might not be appropriate to use a common account to solve a customer problem. For example, we may need to see exactly what the customer sees, and an account that owns and manages multiple Enterprises may look different. 
+On rare occasions it might not be appropriate to use a common account to solve a customer problem. For example, we may need to see exactly what the customer sees, and an account that owns and manages multiple Enterprises may look different.&#x20;
 
-To create a **unique** account to add as a manager of an Enterprise, you need to create a NEW email address, then add this account as a manager of the Enterprise. The easiest way to do this is to append a + symbol with a unique code at the end of your OFN email address account name. 
+To create a **unique** account to add as a manager of an Enterprise, you need to create a NEW email address, then add this account as a manager of the Enterprise. The easiest way to do this is to append a + symbol with a unique code at the end of your OFN email address account name.&#x20;
 
 eg.hello+**123**@openfoodnetwork.org.au
 
@@ -28,7 +28,7 @@ You don’t need to create this email address. As long as you add the + symbol a
 
 1. Go to _**Dashboard - Users**_
 2. Click on the Add an Existing User Dropdown
-3. Select the email address of your Chosen Email Account 
+3. Select the email address of your Chosen Email Account&#x20;
 4. Update
 
 ## **How to add a NEW Account as a Manager of the Enterprise**
@@ -43,6 +43,6 @@ You don’t need to create this email address. As long as you add the + symbol a
 
 #### NOTES on viewing OFN as the Manager of an Enterprise
 
-When you log in as the Manager of an Enterprise you will be able to see the dashboard and admin options the way the Enterprise customer sees them. Keep in mind that you will **only** see enterprises that _this account_ is an owner or manager of. If you are investigating an account that owns _multiple_ enterprises, you'll need to add yourself as a manager of _all _of them.
+When you log in as the Manager of an Enterprise you will be able to see the dashboard and admin options the way the Enterprise customer sees them. Keep in mind that you will **only** see enterprises that _this account_ is an owner or manager of. If you are investigating an account that owns _multiple_ enterprises, you'll need to add yourself as a manager of _all_ of them.
 
 Also be aware that some functions are only available to the **Owner**, so you will not see these when you are a **Manager** (eg. you can’t change the Account Owner or add new Managers unless you are the Owner).
