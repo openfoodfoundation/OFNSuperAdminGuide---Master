@@ -4,7 +4,7 @@
 
 **Site name:** e.g. Open Food Network MyCountry
 
-**Default SEO Title: **we don't use until now...
+**Default SEO Title:** we don't use until now...
 
 **Default meta keywords:** e.g. OFN open food
 
@@ -26,7 +26,7 @@ Copy the settings pictured below
 
 **Display currency:** Select if you want for example 'AUD' (Australian Dollars) to show in the shop. Deselect if you just want $ to show in the shop.
 
-**Hide cents: **Select if you want to hide the cents component in shops
+**Hide cents:** Select if you want to hide the cents component in shops
 
 **Choose currency:** Select the currency of your instance
 
@@ -36,7 +36,7 @@ Please note, if you are using Euro, you must select the 'Number localisation set
 
 **Put currency symbol before or after dollar amount:** Select whether you want $5 or 5$
 
-## Number localisation settings 
+## Number localisation settings&#x20;
 
 ![](<../.gitbook/assets/Screenshot from 2018-04-02 11-22-11.png>)
 
@@ -54,7 +54,7 @@ To make it easier we have implemented the following internationalization logic:
 
 ### **Enterprises must accept Terms of Service**
 
-This setting allows an instance to require all new enterprises signing up via the /register wizard to ‘accept terms of service’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated. If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service. 
+This setting allows an instance to require all new enterprises signing up via the /register wizard to ‘accept terms of service’ before they can create a profile. The screenshot below shows what new users will see if this setting is activated. If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to create a profile without any mention of Terms of Service.&#x20;
 
 The Terms of Service file can be uploaded on the page [Terms of Service](terms-of-service.md).
 
@@ -64,7 +64,7 @@ Note regardless of if this setting is on or off, the Terms of Service link is al
 
 ### Shoppers must accept Terms of Service
 
-This setting allows an instance to require all shoppers to ‘accept terms of service’ before they can place their order. The screenshot below shows what users will see if this setting is activated. If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to place orders without any mention of Terms of Service. 
+This setting allows an instance to require all shoppers to ‘accept terms of service’ before they can place their order. The screenshot below shows what users will see if this setting is activated. If activated the user won’t be able to proceed without selecting the “I agree” tickbox. If this setting is not activated all users will be able to place orders without any mention of Terms of Service.&#x20;
 
 The Terms of Service file can be uploaded on the page [Terms of Service](terms-of-service.md).
 
@@ -76,7 +76,7 @@ Note regardless of if this setting is on or off, the Terms of Service link is al
 
 Depending of the location of your instance, the GDPR might require from you that you request a consent from visitors before deposing cookies on their computer. We use the very minimum cookies we really need to make the platform work, so we have collectively written a cookies policy that explains all that, **and you can choose to display the cookie consent banner to request consent from your visitors**. The cookies policy is accessible from the footer at any time.
 
-The only cookie that is not compulsory for the site to work is the navigation tracking cookie that we use analytics,  it gives us data to understand how the visitors use the platform, so that we can improve their experience. 
+The only cookie that is not compulsory for the site to work is the navigation tracking cookie that we use analytics,  it gives us data to understand how the visitors use the platform, so that we can improve their experience.&#x20;
 
 Currently the analytics tool you can use is Matomo:
 
@@ -88,10 +88,10 @@ If you are within the GDPR zone, you are also required to write and share with y
 
 You have then a field here where you can put the link to a PDF version of your privacy policy document. It will display in the footer, near the cookies policy.
 
-## **Embedded Shopfront Settings**
+## **Embedded Groups Settings**
 
 ![](../.gitbook/assets/Embed.png)
 
-Each instance has the choice of enabling or disabling embedded shopfronts (enable users to embed their shopfront in an external website, like a wordpress for instance). You can turn the feature on and off.
+Each instance has the choice of enabling or disabling [embedded group pages](../integrations-and-business-intelligence/embed-a-shopfront-or-a-group-page-in-an-external-website.md) (enable users to embed their group pages in an external website, like a wordpress for instance). You can turn the feature on and off.
 
-If your instance is enabling embedded shopfronts, you’ll need to give each user who wants to embed their shop permission to embed it in their external website. To do this you need to enter their external website URL in the ‘external domain whitelist’. Write the URL without www. or http, as shown below. Separate each by a space. Only once the external URL is on this list will the user be able to embed their shop on that website.
+If your instance is enabling embedded group pages, you’ll need to give each user who wants to embed their group page permission to embed it in their external website. To do this you need to enter their external website URL in the ‘external domains whitelist’. Write the URL without www. or http, as shown above. Separate each by a space. Only once the external URL is on this list will the user be able to embed their group page on that website.
