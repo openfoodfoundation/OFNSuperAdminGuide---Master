@@ -43,6 +43,7 @@
   * [Integrate OFN with Accounting Package](integrations-and-business-intelligence/integrate-ofn-with-accounting-package.md)
   * [Send New Enterprises to Airtable as CRM](integrations-and-business-intelligence/send-new-enterprises-to-airtable-as-crm.md)
 * [Tracking data using Matomo](tracking-data-using-matomo/README.md)
+  * [Specificities of the OFN shared Matomo instance](tracking-data-using-matomo/specificities-of-the-ofn-shared-matomo-instance.md)
   * [Installing Matomo on your wordpress](tracking-data-using-matomo/installing-matomo-on-your-wordpress.md)
   * [Creating a Matomo funnel to track a specific user journey on the platform](tracking-data-using-matomo/creating-a-matomo-funnel-to-track-a-specific-user-journey-on-the-platform.md)
   * [Create a segment to analyze behaviour in Admin](tracking-data-using-matomo/create-a-segment-to-analyze-behaviour-in-admin.md)
