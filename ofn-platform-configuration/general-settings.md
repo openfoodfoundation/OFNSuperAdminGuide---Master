@@ -74,13 +74,13 @@ Note regardless of if this setting is on or off, the Terms of Service link is al
 
 ### **Cookies and analytics tracking**
 
-Depending of the location of your instance, the GDPR might require from you that you request a consent from visitors before deposing cookies on their computer. We use the very minimum cookies we really need to make the platform work, so we have collectively written a cookies policy that explains all that, **and you can choose to display the cookie consent banner to request consent from your visitors**. The cookies policy is accessible from the footer at any time.
+Depending of the location of your instance, the law might require from you that you request a consent from visitors before deposing cookies on their computer. We use the very minimum cookies we really need to make the platform work, so we have collectively written a cookies policy that explains all that, **and you can choose to display the cookie consent banner to request consent from your visitors (but you are not forced to, see more info about it** [**here**](https://ofn-user-guide.gitbook.io/ofn-super-admin-guide/tracking-data-using-matomo/specificities-of-the-ofn-shared-matomo-instance) **and** [**here**](https://github.com/openfoodfoundation/wishlist/issues/1)**)**. The cookies policy is accessible from the footer at any time.
 
-The only cookie that is not compulsory for the site to work is the navigation tracking cookie that we use analytics,  it gives us data to understand how the visitors use the platform, so that we can improve their experience.&#x20;
+The only cookie that is not compulsory for the site to work is the navigation tracking cookie that we use analytics,  it gives us data to understand how the visitors use the platform, so that we can improve their experience.
 
 Currently the analytics tool you can use is Matomo:
 
-* **Matomo.** This is the tool recognized as GDPR friendly. It respect the privacy of users and has been approved by CNIL in France for instance (which protect data privacy). If you are in a country within GDPR zone, we highly recommend you to use Matomo for your analytics tracking tool. **If you select the corresponding checkbox, the cookie policy will display the section concerning the cookies used by Matomo, and will enable users to disable these cookies if they want.**
+* **Matomo.** This is the tool recognized as GDPR friendly. It respect the privacy of users and has been approved by CNIL in France for instance (which protect data privacy). If you are in a country within GDPR zone, we highly recommend you to use Matomo for your analytics tracking tool. **If you select the corresponding checkbox, the cookie policy will display the section concerning the cookies used by Matomo, and will enable users to disable these cookies if they want. Even if you don't display the cookie banner, displaying an opt-out option to your user is compulsory.**
 
 ### **Privacy policy**
 
